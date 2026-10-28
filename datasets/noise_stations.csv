@@ -1,0 +1,68 @@
+name,lat,lng,db_level,zone
+Majestic — Industrial,12.980187,77.602628,94.6,Majestic
+Majestic — Residential,12.979417,77.602125,81.7,Majestic
+Majestic — School Zone,12.955724,77.605804,83.6,Majestic
+Majestic — Residential,12.964999,77.603093,51.6,Majestic
+Majestic — Junction,12.974007,77.588171,76.6,Majestic
+Majestic — Junction,12.984095,77.577919,59.0,Majestic
+Whitefield — Industrial,12.948981,77.62892,73.9,Whitefield
+Whitefield — Residential,12.941472,77.605726,55.0,Whitefield
+Whitefield — Residential,12.950923,77.644134,74.5,Whitefield
+Whitefield — Hospital Zone,12.928136,77.620661,68.9,Whitefield
+Marathahalli — Junction,12.980319,77.635784,93.8,Marathahalli
+Marathahalli — School Zone,12.997102,77.646196,57.0,Marathahalli
+Marathahalli — Industrial,12.972942,77.635832,58.5,Marathahalli
+Bommanahalli — Market,12.831297,77.66914,75.8,Bommanahalli
+Bommanahalli — Industrial,12.847334,77.678336,73.9,Bommanahalli
+Bommanahalli — Hospital Zone,12.836439,77.671981,81.1,Bommanahalli
+Bommanahalli — Residential,12.835849,77.672757,68.3,Bommanahalli
+Hebbal — Hospital Zone,13.01958,77.585438,85.5,Hebbal
+Hebbal — School Zone,13.00987,77.606002,92.4,Hebbal
+Hebbal — Hospital Zone,12.98898,77.60644,52.4,Hebbal
+Hebbal — School Zone,13.011254,77.595845,83.7,Hebbal
+Hebbal — Market,12.998312,77.598255,91.4,Hebbal
+Jayanagar — School Zone,12.891789,77.619526,68.8,Jayanagar
+Jayanagar — Market,12.894273,77.604672,56.5,Jayanagar
+Jayanagar — Industrial,12.88846,77.603267,97.4,Jayanagar
+Jayanagar — School Zone,12.913816,77.605842,91.5,Jayanagar
+Jayanagar — Junction,12.898095,77.595537,78.7,Jayanagar
+Rajajinagar — School Zone,12.972307,77.558075,91.1,Rajajinagar
+Rajajinagar — Hospital Zone,12.953229,77.584183,83.6,Rajajinagar
+Rajajinagar — Industrial,12.954979,77.571842,59.5,Rajajinagar
+BTM Layout — Market,12.858492,77.609369,61.3,BTM Layout
+BTM Layout — School Zone,12.829486,77.629576,65.6,BTM Layout
+BTM Layout — Hospital Zone,12.849148,77.627277,95.8,BTM Layout
+BTM Layout — Industrial,12.83471,77.599409,77.7,BTM Layout
+BTM Layout — Industrial,12.853636,77.605997,92.6,BTM Layout
+HAL — School Zone,12.931579,77.640054,82.6,HAL
+HAL — School Zone,12.924667,77.645562,57.8,HAL
+HAL — School Zone,12.918731,77.627058,54.5,HAL
+HAL — Junction,12.930742,77.629323,71.2,HAL
+Yelahanka — Residential,13.018895,77.610372,67.8,Yelahanka
+Yelahanka — Market,13.03551,77.607778,60.9,Yelahanka
+Yelahanka — Industrial,13.032958,77.58019,58.3,Yelahanka
+Yelahanka — School Zone,13.025737,77.577276,62.1,Yelahanka
+Indiranagar — Industrial,12.944695,77.601694,70.2,Indiranagar
+Indiranagar — Industrial,12.939172,77.602789,96.7,Indiranagar
+Indiranagar — Market,12.975066,77.60821,92.3,Indiranagar
+Indiranagar — Industrial,12.975901,77.588994,67.7,Indiranagar
+Indiranagar — School Zone,12.954915,77.620659,51.7,Indiranagar
+Basavanagudi — School Zone,12.927149,77.575128,57.4,Basavanagudi
+Basavanagudi — Industrial,12.926314,77.580427,71.3,Basavanagudi
+Basavanagudi — Industrial,12.925833,77.5716,60.5,Basavanagudi
+Koramangala — School Zone,12.944528,77.644166,97.2,Koramangala
+Koramangala — Industrial,12.951641,77.626513,57.0,Koramangala
+Koramangala — Residential,12.943136,77.608382,79.5,Koramangala
+Electronic City — School Zone,12.842121,77.645665,49.1,Electronic City
+Electronic City — School Zone,12.845567,77.659205,77.0,Electronic City
+Electronic City — Hospital Zone,12.857193,77.668081,93.5,Electronic City
+Electronic City — School Zone,12.838649,77.647593,50.5,Electronic City
+JP Nagar — Market,12.918348,77.572177,69.5,JP Nagar
+JP Nagar — School Zone,12.920123,77.602077,48.6,JP Nagar
+JP Nagar — School Zone,12.90449,77.568412,58.2,JP Nagar
+JP Nagar — Junction,12.925751,77.586755,76.5,JP Nagar
+JP Nagar — Hospital Zone,12.903963,77.594572,69.7,JP Nagar
+JP Nagar — Junction,12.900915,77.586615,81.2,JP Nagar
+Banashankari — Market,12.912368,77.543565,70.0,Banashankari
+Banashankari — School Zone,12.893177,77.551813,55.6,Banashankari
+Banashankari — Industrial,12.898986,77.54636,63.4,Banashankari

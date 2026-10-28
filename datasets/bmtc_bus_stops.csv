@@ -1,0 +1,206 @@
+stop_name,lat,lng,route,frequency,frequency_label,zone
+Majestic Bus Stop 62,12.998413,77.596357,174,0.36,High,Majestic
+Majestic Bus Stop 73,12.95552,77.587562,401,0.98,Low,Majestic
+Majestic Bus Stop 99,12.954293,77.587132,402,0.33,High,Majestic
+Majestic Bus Stop 4,12.974826,77.568609,500D,0.33,High,Majestic
+Majestic Bus Stop 4,12.984094,77.623474,351,0.84,Low,Majestic
+Majestic Bus Stop 46,12.972784,77.566438,401,0.94,Low,Majestic
+Majestic Bus Stop 27,12.948919,77.600948,401,0.68,Medium,Majestic
+Majestic Bus Stop 71,12.999738,77.569796,600,0.85,Low,Majestic
+Majestic Bus Stop 57,12.990359,77.599241,250,0.84,Low,Majestic
+Majestic Bus Stop 69,12.989546,77.591989,335E,0.67,Medium,Majestic
+Majestic Bus Stop 73,12.967496,77.618238,500C,0.83,Low,Majestic
+Majestic Bus Stop 79,12.99199,77.585256,219,0.83,Low,Majestic
+Majestic Bus Stop 36,13.001584,77.582257,335E,0.41,Medium,Majestic
+Majestic Bus Stop 86,12.991309,77.597338,KIA-9,0.69,Medium,Majestic
+Majestic Bus Stop 94,12.999972,77.597471,KIA-9,0.3,High,Majestic
+Majestic Bus Stop 50,12.991138,77.595445,219,0.65,Medium,Majestic
+Whitefield Bus Stop 74,12.929666,77.596389,500D,0.32,High,Whitefield
+Whitefield Bus Stop 19,12.943123,77.645684,KIA-9,0.44,Medium,Whitefield
+Whitefield Bus Stop 2,12.910869,77.620433,KIA-9,0.48,Medium,Whitefield
+Whitefield Bus Stop 88,12.919517,77.613305,KIA-9,0.96,Low,Whitefield
+Whitefield Bus Stop 41,12.949683,77.603434,G1,0.81,Low,Whitefield
+Whitefield Bus Stop 58,12.952727,77.59905,KIA-9,0.72,Medium,Whitefield
+Whitefield Bus Stop 54,12.924119,77.63669,G1,0.47,Medium,Whitefield
+Whitefield Bus Stop 97,12.92638,77.637252,174,0.31,High,Whitefield
+Whitefield Bus Stop 61,12.924758,77.651607,KIA-9,0.56,Medium,Whitefield
+Whitefield Bus Stop 65,12.932428,77.620012,402,0.52,Medium,Whitefield
+Whitefield Bus Stop 16,12.951937,77.652041,KIA-9,0.53,Medium,Whitefield
+Whitefield Bus Stop 15,12.925248,77.638731,MFS-6,0.48,Medium,Whitefield
+Whitefield Bus Stop 90,12.936035,77.598772,VAJRA,0.76,Medium,Whitefield
+Whitefield Bus Stop 79,12.908798,77.643959,401,0.48,Medium,Whitefield
+Whitefield Bus Stop 76,12.940942,77.614583,219,0.87,Low,Whitefield
+Whitefield Bus Stop 34,12.941641,77.605962,201,0.46,Medium,Whitefield
+Whitefield Bus Stop 72,12.940281,77.6373,219,0.76,Medium,Whitefield
+Marathahalli Bus Stop 41,12.959893,77.627413,201,0.49,Medium,Marathahalli
+Marathahalli Bus Stop 97,12.979887,77.660052,600,0.55,Medium,Marathahalli
+Marathahalli Bus Stop 90,13.001055,77.648587,351,0.69,Medium,Marathahalli
+Marathahalli Bus Stop 45,12.97306,77.667297,219,0.58,Medium,Marathahalli
+Marathahalli Bus Stop 13,13.00276,77.666747,402,0.36,High,Marathahalli
+Marathahalli Bus Stop 48,13.001742,77.626004,250,0.64,Medium,Marathahalli
+Marathahalli Bus Stop 98,12.979125,77.66006,KIA-9,0.8,Low,Marathahalli
+Marathahalli Bus Stop 59,13.002844,77.617553,G7,0.68,Medium,Marathahalli
+Marathahalli Bus Stop 87,12.977307,77.653994,250,0.48,Medium,Marathahalli
+Marathahalli Bus Stop 33,12.950737,77.650888,219,0.51,Medium,Marathahalli
+Marathahalli Bus Stop 56,12.95024,77.662036,174,0.51,Medium,Marathahalli
+Marathahalli Bus Stop 70,12.967855,77.632074,KIA-9,0.93,Low,Marathahalli
+Marathahalli Bus Stop 20,12.98475,77.624876,500C,0.89,Low,Marathahalli
+Marathahalli Bus Stop 61,12.976185,77.621886,G1,0.76,Medium,Marathahalli
+Marathahalli Bus Stop 14,12.972902,77.665534,KIA-9,0.73,Medium,Marathahalli
+Marathahalli Bus Stop 36,12.997374,77.625118,402,0.38,High,Marathahalli
+Bommanahalli Bus Stop 49,12.842987,77.672457,500D,0.69,Medium,Bommanahalli
+Bommanahalli Bus Stop 16,12.823319,77.659605,351,0.33,High,Bommanahalli
+Bommanahalli Bus Stop 39,12.812151,77.642454,KIA-9,0.3,High,Bommanahalli
+Bommanahalli Bus Stop 81,12.804923,77.688523,KIA-9,0.49,Medium,Bommanahalli
+Bommanahalli Bus Stop 18,12.816851,77.659293,KIA-9,0.78,Medium,Bommanahalli
+Bommanahalli Bus Stop 7,12.816214,77.669704,KIA-9,0.37,High,Bommanahalli
+Bommanahalli Bus Stop 9,12.850536,77.642444,174,0.77,Medium,Bommanahalli
+Bommanahalli Bus Stop 74,12.847098,77.659977,VAJRA,0.39,High,Bommanahalli
+Bommanahalli Bus Stop 72,12.815641,77.643353,500D,0.53,Medium,Bommanahalli
+Bommanahalli Bus Stop 82,12.8134,77.658297,174,0.51,Medium,Bommanahalli
+Bommanahalli Bus Stop 82,12.814602,77.638275,401,0.6,Medium,Bommanahalli
+Bommanahalli Bus Stop 97,12.806866,77.65044,KIA-9,0.75,Medium,Bommanahalli
+Bommanahalli Bus Stop 69,12.816262,77.660587,600,0.7,Medium,Bommanahalli
+Bommanahalli Bus Stop 82,12.810977,77.676995,250,0.97,Low,Bommanahalli
+Bommanahalli Bus Stop 16,12.824979,77.685007,401,0.62,Medium,Bommanahalli
+Bommanahalli Bus Stop 75,12.824315,77.665694,500C,0.74,Medium,Bommanahalli
+Hebbal Bus Stop 94,12.995372,77.610191,219,0.36,High,Hebbal
+Hebbal Bus Stop 1,13.003907,77.620784,335E,0.52,Medium,Hebbal
+Hebbal Bus Stop 28,13.012569,77.586605,KIA-9,0.81,Low,Hebbal
+Hebbal Bus Stop 67,12.997918,77.605929,250,0.67,Medium,Hebbal
+Hebbal Bus Stop 33,12.988393,77.610681,401,0.94,Low,Hebbal
+Hebbal Bus Stop 91,12.987855,77.624444,219,0.96,Low,Hebbal
+Hebbal Bus Stop 83,13.025429,77.57494,500D,0.91,Low,Hebbal
+Hebbal Bus Stop 96,13.007478,77.616114,351,0.52,Medium,Hebbal
+Hebbal Bus Stop 37,13.022551,77.613982,VAJRA,0.64,Medium,Hebbal
+Hebbal Bus Stop 82,13.015417,77.592503,KIA-9,0.43,Medium,Hebbal
+Hebbal Bus Stop 19,12.983702,77.591487,MFS-6,0.75,Medium,Hebbal
+Hebbal Bus Stop 61,13.006785,77.614097,219,0.72,Medium,Hebbal
+Jayanagar Bus Stop 35,12.874131,77.605432,335E,0.97,Low,Jayanagar
+Jayanagar Bus Stop 40,12.885262,77.596006,G1,0.55,Medium,Jayanagar
+Jayanagar Bus Stop 57,12.918472,77.58438,500D,0.92,Low,Jayanagar
+Jayanagar Bus Stop 36,12.873088,77.58583,G7,0.77,Medium,Jayanagar
+Jayanagar Bus Stop 83,12.883373,77.594492,KIA-9,0.33,High,Jayanagar
+Jayanagar Bus Stop 13,12.886814,77.587726,250,0.32,High,Jayanagar
+Jayanagar Bus Stop 15,12.916924,77.618919,VAJRA,0.55,Medium,Jayanagar
+Jayanagar Bus Stop 55,12.876064,77.595097,250,0.64,Medium,Jayanagar
+Jayanagar Bus Stop 73,12.9195,77.610136,402,0.66,Medium,Jayanagar
+Jayanagar Bus Stop 47,12.881809,77.62049,G1,0.69,Medium,Jayanagar
+Rajajinagar Bus Stop 2,12.960932,77.545849,402,0.77,Medium,Rajajinagar
+Rajajinagar Bus Stop 88,12.932819,77.582263,351,0.71,Medium,Rajajinagar
+Rajajinagar Bus Stop 56,12.966386,77.566411,500D,0.76,Medium,Rajajinagar
+Rajajinagar Bus Stop 71,12.945007,77.571322,201,0.91,Low,Rajajinagar
+Rajajinagar Bus Stop 96,12.969427,77.542348,G1,0.62,Medium,Rajajinagar
+Rajajinagar Bus Stop 34,12.949883,77.593635,MFS-6,0.35,High,Rajajinagar
+Rajajinagar Bus Stop 45,12.985359,77.568076,KIA-9,0.33,High,Rajajinagar
+Rajajinagar Bus Stop 18,12.954167,77.595448,402,0.58,Medium,Rajajinagar
+Rajajinagar Bus Stop 59,12.989216,77.563801,500D,0.98,Low,Rajajinagar
+Rajajinagar Bus Stop 64,12.955187,77.574632,G1,0.56,Medium,Rajajinagar
+Rajajinagar Bus Stop 65,12.944488,77.555852,500D,0.83,Low,Rajajinagar
+Rajajinagar Bus Stop 88,12.986033,77.579442,351,0.6,Medium,Rajajinagar
+Rajajinagar Bus Stop 6,12.971972,77.567094,351,0.78,Medium,Rajajinagar
+BTM Layout Bus Stop 5,12.846636,77.586948,250,0.3,High,BTM Layout
+BTM Layout Bus Stop 23,12.868561,77.598338,500D,0.52,Medium,BTM Layout
+BTM Layout Bus Stop 43,12.842273,77.632059,G7,0.68,Medium,BTM Layout
+BTM Layout Bus Stop 14,12.847675,77.602599,250,0.67,Medium,BTM Layout
+BTM Layout Bus Stop 17,12.870023,77.59081,219,0.72,Medium,BTM Layout
+BTM Layout Bus Stop 88,12.854805,77.607826,335E,0.47,Medium,BTM Layout
+BTM Layout Bus Stop 10,12.842481,77.600972,KIA-9,0.92,Low,BTM Layout
+BTM Layout Bus Stop 76,12.8686,77.636937,402,0.55,Medium,BTM Layout
+BTM Layout Bus Stop 72,12.86623,77.630618,KIA-9,0.73,Medium,BTM Layout
+BTM Layout Bus Stop 7,12.820861,77.599052,401,0.66,Medium,BTM Layout
+BTM Layout Bus Stop 22,12.820506,77.592624,600,0.3,High,BTM Layout
+BTM Layout Bus Stop 56,12.826885,77.60893,MFS-6,0.43,Medium,BTM Layout
+BTM Layout Bus Stop 44,12.815447,77.60168,500C,0.86,Low,BTM Layout
+BTM Layout Bus Stop 56,12.852791,77.629043,250,0.45,Medium,BTM Layout
+HAL Bus Stop 78,12.942207,77.619611,600,0.94,Low,HAL
+HAL Bus Stop 36,12.920332,77.612983,KIA-9,0.95,Low,HAL
+HAL Bus Stop 51,12.951465,77.622909,201,0.72,Medium,HAL
+HAL Bus Stop 70,12.940264,77.621675,250,0.37,High,HAL
+HAL Bus Stop 74,12.923732,77.629946,351,0.39,High,HAL
+HAL Bus Stop 64,12.933414,77.625733,335E,0.31,High,HAL
+HAL Bus Stop 39,12.908799,77.643692,G7,0.4,Medium,HAL
+HAL Bus Stop 10,12.905547,77.612179,174,0.56,Medium,HAL
+HAL Bus Stop 84,12.94937,77.642623,402,0.64,Medium,HAL
+HAL Bus Stop 81,12.944979,77.647039,500C,0.64,Medium,HAL
+Yelahanka Bus Stop 75,13.047343,77.61281,G1,0.36,High,Yelahanka
+Yelahanka Bus Stop 47,13.062589,77.610659,219,0.88,Low,Yelahanka
+Yelahanka Bus Stop 1,13.054215,77.569822,500C,0.91,Low,Yelahanka
+Yelahanka Bus Stop 6,13.064575,77.572134,KIA-9,0.63,Medium,Yelahanka
+Yelahanka Bus Stop 26,13.056326,77.611385,MFS-6,0.98,Low,Yelahanka
+Yelahanka Bus Stop 19,13.034671,77.572079,201,0.67,Medium,Yelahanka
+Yelahanka Bus Stop 27,13.031987,77.624501,500C,0.48,Medium,Yelahanka
+Yelahanka Bus Stop 52,13.009366,77.604082,VAJRA,0.57,Medium,Yelahanka
+Yelahanka Bus Stop 12,13.029426,77.619306,G7,0.42,Medium,Yelahanka
+Yelahanka Bus Stop 80,13.061362,77.579985,402,0.88,Low,Yelahanka
+Yelahanka Bus Stop 78,13.0283,77.620031,219,0.45,Medium,Yelahanka
+Indiranagar Bus Stop 39,12.928648,77.5779,G1,0.85,Low,Indiranagar
+Indiranagar Bus Stop 21,12.965712,77.63096,600,0.48,Medium,Indiranagar
+Indiranagar Bus Stop 19,12.94316,77.586551,MFS-6,0.61,Medium,Indiranagar
+Indiranagar Bus Stop 83,12.945555,77.583436,219,0.81,Low,Indiranagar
+Indiranagar Bus Stop 37,12.934198,77.609027,G1,0.91,Low,Indiranagar
+Indiranagar Bus Stop 29,12.986369,77.634608,250,0.91,Low,Indiranagar
+Indiranagar Bus Stop 21,12.970883,77.608052,402,0.33,High,Indiranagar
+Indiranagar Bus Stop 63,12.987469,77.584934,500D,0.58,Medium,Indiranagar
+Indiranagar Bus Stop 93,12.945227,77.580274,VAJRA,0.78,Medium,Indiranagar
+Indiranagar Bus Stop 28,12.97126,77.595622,VAJRA,0.31,High,Indiranagar
+Indiranagar Bus Stop 23,12.930641,77.613603,600,0.58,Medium,Indiranagar
+Indiranagar Bus Stop 82,12.943562,77.625174,500D,0.33,High,Indiranagar
+Indiranagar Bus Stop 25,12.938298,77.604626,KIA-9,0.3,High,Indiranagar
+Indiranagar Bus Stop 68,12.940652,77.601475,G1,0.66,Medium,Indiranagar
+Indiranagar Bus Stop 21,12.939697,77.58294,G7,0.63,Medium,Indiranagar
+Indiranagar Bus Stop 63,12.984316,77.588789,500C,0.93,Low,Indiranagar
+Indiranagar Bus Stop 9,12.947807,77.609148,500C,0.52,Medium,Indiranagar
+Basavanagudi Bus Stop 78,12.930814,77.555325,351,0.83,Low,Basavanagudi
+Basavanagudi Bus Stop 41,12.897754,77.559208,335E,0.68,Medium,Basavanagudi
+Basavanagudi Bus Stop 21,12.917011,77.569749,219,0.56,Medium,Basavanagudi
+Basavanagudi Bus Stop 32,12.941104,77.560344,401,0.84,Low,Basavanagudi
+Basavanagudi Bus Stop 73,12.905042,77.556637,201,0.45,Medium,Basavanagudi
+Basavanagudi Bus Stop 80,12.938851,77.600017,G1,0.57,Medium,Basavanagudi
+Basavanagudi Bus Stop 74,12.906166,77.568784,500C,0.65,Medium,Basavanagudi
+Basavanagudi Bus Stop 85,12.935992,77.596089,335E,0.53,Medium,Basavanagudi
+Basavanagudi Bus Stop 81,12.93105,77.602449,500D,0.82,Low,Basavanagudi
+Basavanagudi Bus Stop 14,12.912865,77.604193,500C,0.96,Low,Basavanagudi
+Basavanagudi Bus Stop 17,12.902235,77.587496,201,0.64,Medium,Basavanagudi
+Basavanagudi Bus Stop 76,12.938359,77.588946,201,0.89,Low,Basavanagudi
+Koramangala Bus Stop 51,12.932401,77.616982,500C,0.5,Medium,Koramangala
+Koramangala Bus Stop 83,12.921485,77.65628,VAJRA,0.91,Low,Koramangala
+Koramangala Bus Stop 91,12.907577,77.653251,VAJRA,0.31,High,Koramangala
+Koramangala Bus Stop 25,12.905322,77.627566,250,0.35,High,Koramangala
+Koramangala Bus Stop 97,12.932278,77.651567,250,0.64,Medium,Koramangala
+Koramangala Bus Stop 74,12.922478,77.624503,401,0.95,Low,Koramangala
+Koramangala Bus Stop 26,12.914557,77.613683,VAJRA,0.38,High,Koramangala
+Koramangala Bus Stop 82,12.926398,77.656937,201,0.49,Medium,Koramangala
+Electronic City Bus Stop 11,12.832546,77.631415,G7,0.72,Medium,Electronic City
+Electronic City Bus Stop 88,12.827036,77.680383,G7,0.72,Medium,Electronic City
+Electronic City Bus Stop 64,12.860576,77.646774,201,0.78,Medium,Electronic City
+Electronic City Bus Stop 58,12.865227,77.678747,401,0.33,High,Electronic City
+Electronic City Bus Stop 70,12.827247,77.686655,402,0.54,Medium,Electronic City
+Electronic City Bus Stop 70,12.874801,77.674558,335E,0.71,Medium,Electronic City
+Electronic City Bus Stop 96,12.836757,77.663357,174,0.79,Medium,Electronic City
+Electronic City Bus Stop 78,12.819915,77.668256,600,0.52,Medium,Electronic City
+JP Nagar Bus Stop 13,12.919052,77.56321,250,0.71,Medium,JP Nagar
+JP Nagar Bus Stop 20,12.923359,77.571809,500C,0.58,Medium,JP Nagar
+JP Nagar Bus Stop 63,12.918655,77.561686,G7,0.3,High,JP Nagar
+JP Nagar Bus Stop 79,12.927508,77.585819,MFS-6,0.74,Medium,JP Nagar
+JP Nagar Bus Stop 69,12.934759,77.568127,VAJRA,0.84,Low,JP Nagar
+JP Nagar Bus Stop 80,12.904646,77.566055,174,0.84,Low,JP Nagar
+JP Nagar Bus Stop 42,12.900173,77.585842,MFS-6,0.77,Medium,JP Nagar
+JP Nagar Bus Stop 1,12.884379,77.575466,KIA-9,0.75,Medium,JP Nagar
+JP Nagar Bus Stop 14,12.890076,77.584838,500C,0.48,Medium,JP Nagar
+JP Nagar Bus Stop 39,12.896774,77.605193,500D,0.58,Medium,JP Nagar
+JP Nagar Bus Stop 34,12.931944,77.556639,G7,0.53,Medium,JP Nagar
+JP Nagar Bus Stop 78,12.92059,77.57046,201,0.47,Medium,JP Nagar
+JP Nagar Bus Stop 10,12.893447,77.605596,351,0.87,Low,JP Nagar
+JP Nagar Bus Stop 91,12.937416,77.580225,201,0.92,Low,JP Nagar
+JP Nagar Bus Stop 76,12.88208,77.611625,MFS-6,0.64,Medium,JP Nagar
+JP Nagar Bus Stop 79,12.879248,77.559706,174,0.73,Medium,JP Nagar
+JP Nagar Bus Stop 77,12.904004,77.591459,500C,0.64,Medium,JP Nagar
+Banashankari Bus Stop 50,12.895947,77.541082,335E,0.67,Medium,Banashankari
+Banashankari Bus Stop 49,12.894005,77.575947,201,0.62,Medium,Banashankari
+Banashankari Bus Stop 11,12.88041,77.521746,401,0.36,High,Banashankari
+Banashankari Bus Stop 22,12.892232,77.533406,250,0.46,Medium,Banashankari
+Banashankari Bus Stop 4,12.915574,77.560224,351,0.9,Low,Banashankari
+Banashankari Bus Stop 76,12.936449,77.553014,401,0.8,Medium,Banashankari
+Banashankari Bus Stop 92,12.935775,77.531428,219,0.54,Medium,Banashankari
+Banashankari Bus Stop 77,12.915513,77.57247,174,0.71,Medium,Banashankari

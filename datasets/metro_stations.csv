@@ -1,0 +1,21 @@
+name,lat,lng,line,line_color,daily_ridership,ridership_index
+Majestic (Nadaprabhu Kempegowda),12.977,77.5713,Purple,#9c27b0,85000,0.944
+MG Road,12.9756,77.6094,Purple,#9c27b0,62000,0.689
+Trinity,12.9701,77.6173,Purple,#9c27b0,38000,0.422
+Indiranagar,12.9784,77.6408,Purple,#9c27b0,45000,0.5
+Baiyappanahalli,12.9924,77.6593,Purple,#9c27b0,30000,0.333
+Whitefield,12.9698,77.7499,Purple,#9c27b0,28000,0.311
+Mysore Road,12.9582,77.5219,Purple,#9c27b0,22000,0.244
+Nadaprabhu Kempegowda (Green),12.977,77.5713,Green,#4caf50,85000,0.944
+Sandal Soap Factory,13.0013,77.5715,Green,#4caf50,18000,0.2
+Yeshwanthpur,13.0196,77.548,Green,#4caf50,25000,0.278
+Hesaraghatta Road,13.049,77.526,Green,#4caf50,12000,0.133
+Nagasandra,13.068,77.509,Green,#4caf50,9000,0.1
+Jayanagar,12.925,77.583,Yellow,#ffc107,35000,0.389
+Bommasandra,12.8152,77.6834,Pink,#e91e63,15000,0.167
+Yelahanka,13.1007,77.596,Yellow,#ffc107,20000,0.222
+Koramangala,12.9352,77.6245,Yellow,#ffc107,40000,0.444
+Electronic City,12.8455,77.6603,Pink,#e91e63,32000,0.356
+Hebbal,13.045,77.597,Green,#4caf50,28000,0.311
+RV Road,12.94,77.578,Yellow,#ffc107,22000,0.244
+Banashankari,12.9091,77.5466,Yellow,#ffc107,18000,0.2

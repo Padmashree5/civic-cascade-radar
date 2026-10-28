@@ -1,0 +1,152 @@
+lat,lng,type,status,ward,intensity
+12.981213,77.608773,Demolition,Active,Majestic,0.48
+12.997375,77.605024,Demolition,Completed,Majestic,0.69
+12.946126,77.586899,Road Work,Active,Majestic,0.71
+12.995319,77.603292,Road Work,Pending,Majestic,0.74
+12.968553,77.616302,Road Work,Active,Majestic,0.6
+12.988106,77.616666,Commercial,Active,Majestic,0.71
+12.991889,77.608968,Residential,Completed,Majestic,0.52
+12.949823,77.622443,Utility,Active,Majestic,0.66
+12.969282,77.591814,Demolition,Active,Majestic,0.5
+12.980576,77.597876,Utility,Completed,Majestic,0.89
+12.995594,77.604642,Utility,Active,Majestic,0.88
+12.954283,77.615203,Commercial,Pending,Majestic,0.51
+12.947777,77.608622,Commercial,Active,Whitefield,0.58
+12.919496,77.631138,Residential,Active,Whitefield,0.44
+12.952593,77.604143,Utility,Completed,Whitefield,0.56
+12.959657,77.599295,Commercial,Active,Whitefield,0.83
+12.953691,77.628655,Demolition,Completed,Whitefield,0.67
+12.953545,77.599397,Utility,Active,Whitefield,0.57
+12.954322,77.602635,Residential,Active,Whitefield,0.69
+12.927975,77.620177,Utility,Completed,Whitefield,0.47
+12.928562,77.617439,Commercial,Completed,Whitefield,0.47
+12.939649,77.63904,Demolition,Active,Whitefield,0.39
+12.971696,77.653662,Road Work,Active,Marathahalli,0.6
+13.001298,77.629914,Utility,Pending,Marathahalli,0.77
+12.974098,77.634271,Utility,Active,Marathahalli,0.32
+12.976925,77.644532,Utility,Active,Marathahalli,0.38
+12.989272,77.618497,Utility,Pending,Marathahalli,0.47
+12.986377,77.61439,Residential,Pending,Marathahalli,0.88
+12.840954,77.666074,Road Work,Active,Bommanahalli,0.53
+12.848445,77.646768,Utility,Pending,Bommanahalli,0.63
+12.860688,77.68331,Road Work,Pending,Bommanahalli,0.66
+12.842483,77.637089,Residential,Active,Bommanahalli,0.86
+12.830619,77.683142,Road Work,Completed,Bommanahalli,0.68
+12.85079,77.655273,Residential,Completed,Bommanahalli,0.6
+12.853937,77.660915,Demolition,Completed,Bommanahalli,0.58
+12.813184,77.685357,Commercial,Completed,Bommanahalli,0.43
+12.836009,77.642782,Commercial,Active,Bommanahalli,0.88
+12.827641,77.646044,Utility,Pending,Bommanahalli,0.65
+12.849135,77.684855,Commercial,Active,Bommanahalli,0.56
+12.832495,77.656,Residential,Active,Bommanahalli,0.89
+12.987633,77.568938,Commercial,Active,Hebbal,0.73
+13.022938,77.619143,Commercial,Active,Hebbal,0.81
+13.018013,77.589831,Residential,Active,Hebbal,0.6
+12.980238,77.57875,Residential,Active,Hebbal,0.32
+13.003412,77.601386,Residential,Active,Hebbal,0.32
+12.980079,77.588803,Commercial,Active,Hebbal,0.45
+13.025065,77.575542,Residential,Active,Hebbal,0.5
+13.00688,77.570281,Residential,Active,Hebbal,0.75
+13.012285,77.620184,Road Work,Active,Hebbal,0.79
+13.017413,77.602798,Utility,Pending,Hebbal,0.82
+12.991052,77.576626,Demolition,Active,Hebbal,0.48
+12.991175,77.623719,Road Work,Active,Hebbal,0.64
+12.911395,77.621631,Residential,Active,Jayanagar,0.61
+12.894783,77.593091,Road Work,Completed,Jayanagar,0.77
+12.914248,77.617369,Residential,Pending,Jayanagar,0.54
+12.905943,77.618211,Demolition,Completed,Jayanagar,0.6
+12.879038,77.595937,Utility,Active,Jayanagar,0.66
+12.895892,77.608761,Road Work,Active,Jayanagar,0.67
+12.89026,77.603205,Commercial,Pending,Jayanagar,0.89
+12.906653,77.621166,Road Work,Completed,Jayanagar,0.72
+12.905328,77.616708,Road Work,Active,Jayanagar,0.43
+12.963733,77.581354,Residential,Active,Rajajinagar,0.73
+12.947787,77.578389,Utility,Active,Rajajinagar,0.71
+12.969457,77.555795,Commercial,Active,Rajajinagar,0.82
+12.974925,77.577458,Demolition,Active,Rajajinagar,0.88
+12.9787,77.542087,Residential,Active,Rajajinagar,0.39
+12.831685,77.585682,Demolition,Pending,BTM Layout,0.86
+12.824107,77.602143,Commercial,Active,BTM Layout,0.74
+12.823017,77.603084,Commercial,Completed,BTM Layout,0.56
+12.827322,77.600678,Road Work,Active,BTM Layout,0.83
+12.825361,77.600035,Road Work,Completed,BTM Layout,0.58
+12.850057,77.584436,Utility,Active,BTM Layout,0.45
+12.840014,77.592776,Road Work,Completed,BTM Layout,0.81
+12.862433,77.63066,Demolition,Active,BTM Layout,0.69
+12.855092,77.607648,Commercial,Pending,BTM Layout,0.55
+12.828547,77.63725,Demolition,Active,BTM Layout,0.68
+12.862915,77.588494,Commercial,Pending,BTM Layout,0.77
+12.927797,77.601302,Road Work,Completed,HAL,0.53
+12.935751,77.643662,Road Work,Active,HAL,0.4
+12.937562,77.616471,Road Work,Active,HAL,0.46
+12.900795,77.630083,Demolition,Active,HAL,0.78
+12.926132,77.634228,Residential,Active,HAL,0.42
+12.950105,77.653232,Road Work,Completed,HAL,0.72
+12.940156,77.654998,Residential,Active,HAL,0.51
+13.014432,77.569381,Commercial,Pending,Yelahanka,0.46
+13.013869,77.594744,Residential,Active,Yelahanka,0.67
+13.050099,77.610642,Commercial,Active,Yelahanka,0.72
+13.057758,77.578738,Utility,Completed,Yelahanka,0.74
+13.042646,77.590276,Demolition,Active,Yelahanka,0.33
+13.03891,77.575953,Utility,Active,Yelahanka,0.73
+13.015676,77.581376,Residential,Completed,Yelahanka,0.39
+13.053126,77.570531,Utility,Completed,Yelahanka,0.47
+13.052666,77.587521,Road Work,Pending,Yelahanka,0.72
+13.032643,77.573719,Road Work,Active,Yelahanka,0.49
+13.014498,77.599927,Residential,Completed,Yelahanka,0.67
+12.957651,77.607054,Residential,Completed,Indiranagar,0.64
+12.972572,77.611703,Utility,Completed,Indiranagar,0.86
+12.953953,77.611284,Road Work,Pending,Indiranagar,0.54
+12.937071,77.584641,Road Work,Completed,Indiranagar,0.69
+12.973132,77.581505,Commercial,Completed,Indiranagar,0.77
+12.949282,77.622984,Commercial,Completed,Indiranagar,0.9
+12.956996,77.615809,Utility,Active,Indiranagar,0.53
+12.946465,77.599168,Utility,Completed,Indiranagar,0.43
+12.944128,77.617932,Commercial,Active,Indiranagar,0.59
+12.942898,77.588952,Road Work,Completed,Indiranagar,0.49
+12.898359,77.573381,Residential,Active,Basavanagudi,0.44
+12.913164,77.589041,Road Work,Completed,Basavanagudi,0.67
+12.908101,77.586403,Utility,Active,Basavanagudi,0.82
+12.892758,77.585367,Road Work,Active,Basavanagudi,0.75
+12.899415,77.55809,Road Work,Pending,Basavanagudi,0.81
+12.912921,77.582523,Commercial,Completed,Basavanagudi,0.31
+12.928753,77.557324,Commercial,Pending,Basavanagudi,0.62
+12.937336,77.597174,Commercial,Active,Basavanagudi,0.59
+12.916314,77.585669,Residential,Active,Basavanagudi,0.73
+12.942382,77.566542,Commercial,Pending,Basavanagudi,0.62
+12.938536,77.647907,Road Work,Pending,Koramangala,0.72
+12.929706,77.642863,Residential,Active,Koramangala,0.54
+12.918036,77.63223,Road Work,Active,Koramangala,0.56
+12.925171,77.632045,Commercial,Active,Koramangala,0.8
+12.924575,77.608235,Road Work,Pending,Koramangala,0.48
+12.830974,77.687128,Demolition,Active,Electronic City,0.82
+12.833101,77.647654,Commercial,Completed,Electronic City,0.76
+12.846679,77.670964,Residential,Active,Electronic City,0.37
+12.861085,77.660973,Residential,Completed,Electronic City,0.82
+12.854388,77.68676,Utility,Active,Electronic City,0.83
+12.862838,77.637277,Commercial,Active,Electronic City,0.53
+12.865255,77.6516,Road Work,Active,Electronic City,0.46
+12.817552,77.644094,Demolition,Pending,Electronic City,0.34
+12.849761,77.640232,Utility,Active,Electronic City,0.63
+12.8629,77.654739,Commercial,Pending,Electronic City,0.6
+12.930927,77.586761,Road Work,Completed,JP Nagar,0.56
+12.908461,77.56302,Residential,Pending,JP Nagar,0.49
+12.903516,77.561814,Road Work,Completed,JP Nagar,0.74
+12.927456,77.572159,Demolition,Pending,JP Nagar,0.57
+12.899441,77.561601,Commercial,Pending,JP Nagar,0.69
+12.880689,77.591561,Commercial,Active,JP Nagar,0.66
+12.909353,77.599725,Utility,Pending,JP Nagar,0.53
+12.896257,77.601545,Road Work,Active,JP Nagar,0.41
+12.893538,77.609292,Demolition,Completed,JP Nagar,0.8
+12.9229,77.560273,Road Work,Active,Banashankari,0.6
+12.886489,77.564945,Road Work,Completed,Banashankari,0.34
+12.932108,77.560235,Commercial,Pending,Banashankari,0.8
+12.926198,77.525072,Commercial,Active,Banashankari,0.51
+12.906828,77.547425,Demolition,Active,Banashankari,0.47
+12.917217,77.528271,Road Work,Active,Banashankari,0.72
+12.884854,77.544873,Commercial,Active,Banashankari,0.46
+12.936844,77.52031,Commercial,Active,Banashankari,0.41
+12.901728,77.569495,Demolition,Pending,Banashankari,0.82
+12.887593,77.557501,Commercial,Pending,Banashankari,0.79
+12.927431,77.526006,Residential,Completed,Banashankari,0.68
+12.899684,77.565959,Road Work,Active,Banashankari,0.81

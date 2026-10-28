@@ -1,0 +1,219 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-sans);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+}
+
+/* ── Dark theme (default) ── */
+:root, .dark {
+  --background:         #000000;
+  --foreground:         #ffffff;
+  --card:               #0a0a0a;
+  --card-foreground:    #ffffff;
+  --popover:            #0a0a0a;
+  --popover-foreground: #ffffff;
+  --primary:            #ffffff;
+  --primary-foreground: #000000;
+  --secondary:          #111111;
+  --secondary-foreground: #a0a0a0;
+  --muted:              #111111;
+  --muted-foreground:   #666666;
+  --accent:             #1a1a1a;
+  --accent-foreground:  #ffffff;
+  --destructive:        #ff3333;
+  --border:             rgba(255,255,255,0.08);
+  --input:              rgba(255,255,255,0.06);
+  --ring:               rgba(255,255,255,0.2);
+  --radius:             0.5rem;
+  --sidebar:            #050505;
+  --sidebar-foreground: #ffffff;
+  --sidebar-primary:    #ffffff;
+  --sidebar-primary-foreground: #000000;
+  --sidebar-accent:     #111111;
+  --sidebar-accent-foreground: #a0a0a0;
+  --sidebar-border:     rgba(255,255,255,0.06);
+  --sidebar-ring:       rgba(255,255,255,0.15);
+}
+
+/* ── Light theme ── */
+.light {
+  --background:         #f0f2f5;
+  --foreground:         #0a0a0a;
+  --card:               #ffffff;
+  --card-foreground:    #0a0a0a;
+  --popover:            #ffffff;
+  --popover-foreground: #0a0a0a;
+  --primary:            #0a0a0a;
+  --primary-foreground: #ffffff;
+  --secondary:          #e8eaed;
+  --secondary-foreground: #555555;
+  --muted:              #e8eaed;
+  --muted-foreground:   #888888;
+  --accent:             #dde1e7;
+  --accent-foreground:  #0a0a0a;
+  --destructive:        #dc2626;
+  --border:             rgba(0,0,0,0.10);
+  --input:              rgba(0,0,0,0.06);
+  --ring:               rgba(0,0,0,0.20);
+  --sidebar:            #ffffff;
+  --sidebar-foreground: #0a0a0a;
+  --sidebar-primary:    #0a0a0a;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent:     #e8eaed;
+  --sidebar-accent-foreground: #555555;
+  --sidebar-border:     rgba(0,0,0,0.08);
+  --sidebar-ring:       rgba(0,0,0,0.15);
+}
+
+.light body { background: #f0f2f5; color: #0a0a0a; }
+.light .glass-panel {
+  background: rgba(255,255,255,0.92);
+  border: 1px solid rgba(0,0,0,0.09);
+}
+.light .panel-divider { border-top: 1px solid rgba(0,0,0,0.06); }
+.light ::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); }
+.light input[type="range"] { background: rgba(0,0,0,0.12); }
+.light input[type="range"]::-webkit-slider-thumb { background: #0a0a0a; }
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+    box-sizing: border-box;
+  }
+  body {
+    @apply bg-background text-foreground;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* ── Panel: ultra-dark, thin border ── */
+.glass-panel {
+  background: rgba(8, 8, 8, 0.96);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 10px;
+}
+
+/* ── Section divider inside panels ── */
+.panel-divider {
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* ── Pulse animation (layer active indicator) ── */
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.4; transform: scale(1.4); }
+}
+.pulse-dot {
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+/* ── Slide / fade entrance ── */
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in-up {
+  animation: fade-in-up 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+.animate-fade-in {
+  animation: fade-in 0.25s ease forwards;
+}
+
+/* ── Slide-in from left (sidebar content) ── */
+@keyframes slide-in-left {
+  from { opacity: 0; transform: translateX(-6px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+.animate-slide-in-left {
+  animation: slide-in-left 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* ── Subtle shimmer for loading states ── */
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.shimmer {
+  background: linear-gradient(90deg, rgba(255,255,255,0.03) 25%, rgba(255,255,255,0.07) 50%, rgba(255,255,255,0.03) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s ease-in-out infinite;
+}
+
+/* ── Scroll bar: minimal ── */
+::-webkit-scrollbar { width: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.25); }
+
+/* ── Range input ── */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 2px;
+  background: rgba(255,255,255,0.12);
+  border-radius: 1px;
+  outline: none;
+  cursor: pointer;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 2px solid rgba(0,0,0,0.3);
+  box-shadow: 0 0 0 3px rgba(255,255,255,0.1);
+  transition: box-shadow 0.15s ease;
+}
+input[type="range"]::-webkit-slider-thumb:hover {
+  box-shadow: 0 0 0 5px rgba(255,255,255,0.15);
+}
+
+/* ── Cesium overrides ── */
+.cesium-viewer-bottom { display: none !important; }
+.cesium-credit-logoContainer { display: none !important; }
+.cesium-performanceDisplay-defaultContainer { display: none !important; }

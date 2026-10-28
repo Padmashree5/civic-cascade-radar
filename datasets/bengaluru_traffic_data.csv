@@ -1,0 +1,47 @@
+area_name,pincode,latitude,longitude,traffic_volume,avg_speed_kmph,congestion_level,time_of_day
+MG Road,560001,12.9758,77.6055,820,20,High,Morning
+MG Road,560001,12.9758,77.6055,900,15,High,Evening
+Indiranagar,560038,12.9719,77.6412,650,28,Medium,Afternoon
+Indiranagar,560038,12.9719,77.6412,780,22,High,Evening
+Whitefield,560066,12.9698,77.7500,920,14,High,Morning
+Whitefield,560066,12.9698,77.7500,980,12,High,Evening
+Electronic City,560100,12.8399,77.6770,870,21,High,Morning
+Electronic City,560100,12.8399,77.6770,910,18,High,Evening
+Koramangala,560034,12.9352,77.6245,700,26,Medium,Afternoon
+Koramangala,560034,12.9352,77.6245,820,20,High,Evening
+Yelahanka,560064,13.1007,77.5963,480,38,Low,Morning
+Yelahanka,560064,13.1007,77.5963,520,34,Low,Evening
+BTM Layout,560076,12.9166,77.6101,690,24,Medium,Afternoon
+BTM Layout,560076,12.9166,77.6101,780,20,High,Evening
+Marathahalli,560037,12.9591,77.6974,860,18,High,Morning
+Marathahalli,560037,12.9591,77.6974,940,14,High,Evening
+Hebbal,560024,13.0358,77.5970,800,21,High,Morning
+Hebbal,560024,13.0358,77.5970,870,17,High,Evening
+Jayanagar,560041,12.9250,77.5938,620,30,Medium,Afternoon
+Jayanagar,560041,12.9250,77.5938,700,25,Medium,Evening
+Rajajinagar,560010,12.9915,77.5550,550,32,Low,Morning
+Rajajinagar,560010,12.9915,77.5550,620,28,Medium,Evening
+Banashankari,560050,12.9255,77.5468,520,34,Low,Morning
+Banashankari,560050,12.9255,77.5468,600,29,Medium,Evening
+Malleshwaram,560003,13.0035,77.5706,580,31,Medium,Afternoon
+Malleshwaram,560003,13.0035,77.5706,650,27,Medium,Evening
+KR Puram,560036,13.0077,77.6959,880,16,High,Morning
+KR Puram,560036,13.0077,77.6959,950,13,High,Evening
+Silk Board,560068,12.9170,77.6220,970,11,High,Morning
+Silk Board,560068,12.9170,77.6220,1000,10,High,Evening
+HSR Layout,560102,12.9116,77.6474,720,24,Medium,Afternoon
+HSR Layout,560102,12.9116,77.6474,810,19,High,Evening
+Bellandur,560103,12.9255,77.6762,890,15,High,Morning
+Bellandur,560103,12.9255,77.6762,960,12,High,Evening
+Sarjapur Road,560035,12.9077,77.6880,860,17,High,Morning
+Sarjapur Road,560035,12.9077,77.6880,930,14,High,Evening
+Ulsoor,560008,12.9845,77.6200,600,29,Medium,Afternoon
+Ulsoor,560008,12.9845,77.6200,680,25,Medium,Evening
+Basavanagudi,560004,12.9416,77.5736,540,33,Low,Morning
+Basavanagudi,560004,12.9416,77.5736,620,28,Medium,Evening
+Domlur,560071,12.9611,77.6387,710,23,Medium,Afternoon
+Domlur,560071,12.9611,77.6387,800,19,High,Evening
+Frazer Town,560005,12.9980,77.6150,650,27,Medium,Afternoon
+Frazer Town,560005,12.9980,77.6150,720,22,High,Evening
+Shivajinagar,560001,12.9855,77.6050,780,21,High,Morning
+Shivajinagar,560001,12.9855,77.6050,860,17,High,Evening

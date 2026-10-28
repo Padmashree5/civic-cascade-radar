@@ -1,0 +1,1001 @@
+Crime_Type,Latitude,Longitude,Severity_Rating,Description
+Robbery,12.830499,77.75856,9,Reported incident of robbery in Bengaluru area.
+Burglary,12.830535,77.664608,7,Reported incident of burglary in Bengaluru area.
+Burglary,12.830968,77.726234,7,Reported incident of burglary in Bengaluru area.
+Theft,12.831178,77.708438,4,Reported incident of theft in Bengaluru area.
+Public Nuisance,12.831185,77.648942,2,Reported incident of public nuisance in Bengaluru area.
+Dacoity,12.831435,77.498135,9,Reported incident of dacoity in Bengaluru area.
+Dacoity,12.831559,77.52008,10,Reported incident of dacoity in Bengaluru area.
+Rape,12.831801,77.770507,10,Reported incident of rape in Bengaluru area.
+Kidnapping,12.832262,77.529746,8,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,12.832907,77.492633,1,Reported incident of public nuisance in Bengaluru area.
+Dacoity,12.83302,77.748027,9,Reported incident of dacoity in Bengaluru area.
+Theft,12.833194,77.734414,5,Reported incident of theft in Bengaluru area.
+Gambling,12.833461,77.734007,1,Reported incident of gambling in Bengaluru area.
+Cyber Crime,12.833532,77.664053,4,Reported incident of cyber crime in Bengaluru area.
+Burglary,12.83416,77.6419,7,Reported incident of burglary in Bengaluru area.
+Theft,12.834545,77.707782,6,Reported incident of theft in Bengaluru area.
+Assault,12.834586,77.752069,7,Reported incident of assault in Bengaluru area.
+Robbery,12.835113,77.716342,9,Reported incident of robbery in Bengaluru area.
+Rape,12.8352,77.759679,9,Reported incident of rape in Bengaluru area.
+Rape,12.835343,77.618985,10,Reported incident of rape in Bengaluru area.
+Kidnapping,12.835623,77.622926,9,Reported incident of kidnapping in Bengaluru area.
+Cyber Crime,12.835665,77.515784,4,Reported incident of cyber crime in Bengaluru area.
+Public Nuisance,12.835797,77.776019,3,Reported incident of public nuisance in Bengaluru area.
+Assault,12.835891,77.710684,7,Reported incident of assault in Bengaluru area.
+Cheating,12.836171,77.699929,3,Reported incident of cheating in Bengaluru area.
+Robbery,12.837363,77.601638,9,Reported incident of robbery in Bengaluru area.
+Kidnapping,12.838182,77.565727,8,Reported incident of kidnapping in Bengaluru area.
+Gambling,12.838255,77.531539,1,Reported incident of gambling in Bengaluru area.
+Gambling,12.838425,77.587388,1,Reported incident of gambling in Bengaluru area.
+Dacoity,12.838589,77.476708,10,Reported incident of dacoity in Bengaluru area.
+Burglary,12.838638,77.64988,8,Reported incident of burglary in Bengaluru area.
+Dacoity,12.838844,77.620709,10,Reported incident of dacoity in Bengaluru area.
+Murder,12.839295,77.684045,9,Reported incident of murder in Bengaluru area.
+Public Nuisance,12.839459,77.69041,2,Reported incident of public nuisance in Bengaluru area.
+Robbery,12.839509,77.493448,8,Reported incident of robbery in Bengaluru area.
+Burglary,12.839767,77.54377,8,Reported incident of burglary in Bengaluru area.
+Robbery,12.839891,77.51043,8,Reported incident of robbery in Bengaluru area.
+Theft,12.840056,77.475098,5,Reported incident of theft in Bengaluru area.
+Public Nuisance,12.841015,77.728076,3,Reported incident of public nuisance in Bengaluru area.
+Theft,12.841077,77.66415,5,Reported incident of theft in Bengaluru area.
+Murder,12.841083,77.663489,10,Reported incident of murder in Bengaluru area.
+Kidnapping,12.841837,77.680844,8,Reported incident of kidnapping in Bengaluru area.
+Burglary,12.841866,77.728593,7,Reported incident of burglary in Bengaluru area.
+Rape,12.842385,77.465887,9,Reported incident of rape in Bengaluru area.
+Murder,12.842796,77.751238,9,Reported incident of murder in Bengaluru area.
+Burglary,12.84297,77.688861,7,Reported incident of burglary in Bengaluru area.
+Rape,12.843062,77.464192,10,Reported incident of rape in Bengaluru area.
+Dacoity,12.843344,77.692083,9,Reported incident of dacoity in Bengaluru area.
+Rape,12.844241,77.534296,9,Reported incident of rape in Bengaluru area.
+Gambling,12.844291,77.564904,1,Reported incident of gambling in Bengaluru area.
+Robbery,12.844343,77.507791,7,Reported incident of robbery in Bengaluru area.
+Murder,12.844757,77.639591,10,Reported incident of murder in Bengaluru area.
+Cyber Crime,12.845592,77.507863,4,Reported incident of cyber crime in Bengaluru area.
+Dacoity,12.845866,77.62358,8,Reported incident of dacoity in Bengaluru area.
+Rape,12.846059,77.542012,10,Reported incident of rape in Bengaluru area.
+Kidnapping,12.846085,77.55918,8,Reported incident of kidnapping in Bengaluru area.
+Kidnapping,12.846915,77.759589,7,Reported incident of kidnapping in Bengaluru area.
+Cheating,12.846925,77.469552,2,Reported incident of cheating in Bengaluru area.
+Rape,12.848041,77.490989,9,Reported incident of rape in Bengaluru area.
+Burglary,12.848899,77.519196,8,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.849733,77.659394,3,Reported incident of public nuisance in Bengaluru area.
+Theft,12.849807,77.572591,4,Reported incident of theft in Bengaluru area.
+Cheating,12.850557,77.754259,2,Reported incident of cheating in Bengaluru area.
+Assault,12.851085,77.700983,5,Reported incident of assault in Bengaluru area.
+Murder,12.85113,77.604996,10,Reported incident of murder in Bengaluru area.
+Rape,12.851403,77.52047,10,Reported incident of rape in Bengaluru area.
+Gambling,12.851534,77.645627,1,Reported incident of gambling in Bengaluru area.
+Theft,12.851793,77.549564,5,Reported incident of theft in Bengaluru area.
+Dacoity,12.852441,77.776093,10,Reported incident of dacoity in Bengaluru area.
+Rape,12.853085,77.749657,10,Reported incident of rape in Bengaluru area.
+Dacoity,12.853322,77.521695,8,Reported incident of dacoity in Bengaluru area.
+Murder,12.854206,77.572883,10,Reported incident of murder in Bengaluru area.
+Cyber Crime,12.854248,77.575693,4,Reported incident of cyber crime in Bengaluru area.
+Assault,12.854313,77.539615,5,Reported incident of assault in Bengaluru area.
+Robbery,12.854342,77.474298,7,Reported incident of robbery in Bengaluru area.
+Cyber Crime,12.854471,77.57705,3,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,12.854599,77.738557,3,Reported incident of cyber crime in Bengaluru area.
+Gambling,12.855324,77.473374,2,Reported incident of gambling in Bengaluru area.
+Cyber Crime,12.85533,77.471896,3,Reported incident of cyber crime in Bengaluru area.
+Gambling,12.855427,77.757581,1,Reported incident of gambling in Bengaluru area.
+Rape,12.855579,77.672171,9,Reported incident of rape in Bengaluru area.
+Assault,12.855619,77.609469,7,Reported incident of assault in Bengaluru area.
+Murder,12.856187,77.712638,9,Reported incident of murder in Bengaluru area.
+Burglary,12.856298,77.723498,6,Reported incident of burglary in Bengaluru area.
+Gambling,12.856646,77.71843,1,Reported incident of gambling in Bengaluru area.
+Murder,12.856762,77.526617,10,Reported incident of murder in Bengaluru area.
+Cheating,12.85677,77.504318,2,Reported incident of cheating in Bengaluru area.
+Public Nuisance,12.857143,77.760531,2,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,12.857471,77.720459,1,Reported incident of public nuisance in Bengaluru area.
+Assault,12.857658,77.682452,6,Reported incident of assault in Bengaluru area.
+Robbery,12.858452,77.580964,7,Reported incident of robbery in Bengaluru area.
+Gambling,12.858468,77.610587,1,Reported incident of gambling in Bengaluru area.
+Dacoity,12.858583,77.477636,10,Reported incident of dacoity in Bengaluru area.
+Kidnapping,12.858747,77.662718,9,Reported incident of kidnapping in Bengaluru area.
+Murder,12.859007,77.734229,10,Reported incident of murder in Bengaluru area.
+Murder,12.859112,77.506666,10,Reported incident of murder in Bengaluru area.
+Kidnapping,12.859345,77.763082,9,Reported incident of kidnapping in Bengaluru area.
+Robbery,12.859948,77.484737,8,Reported incident of robbery in Bengaluru area.
+Murder,12.860002,77.633825,9,Reported incident of murder in Bengaluru area.
+Public Nuisance,12.860071,77.550216,2,Reported incident of public nuisance in Bengaluru area.
+Gambling,12.860124,77.542881,1,Reported incident of gambling in Bengaluru area.
+Cheating,12.860821,77.528953,3,Reported incident of cheating in Bengaluru area.
+Burglary,12.86084,77.672687,8,Reported incident of burglary in Bengaluru area.
+Cyber Crime,12.862326,77.718882,5,Reported incident of cyber crime in Bengaluru area.
+Rape,12.862857,77.503427,10,Reported incident of rape in Bengaluru area.
+Kidnapping,12.86314,77.698425,8,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,12.863193,77.606483,1,Reported incident of public nuisance in Bengaluru area.
+Cyber Crime,12.863248,77.570912,4,Reported incident of cyber crime in Bengaluru area.
+Burglary,12.864018,77.619389,6,Reported incident of burglary in Bengaluru area.
+Murder,12.864072,77.61901,10,Reported incident of murder in Bengaluru area.
+Murder,12.864583,77.538639,10,Reported incident of murder in Bengaluru area.
+Theft,12.865107,77.773846,4,Reported incident of theft in Bengaluru area.
+Cheating,12.865247,77.690983,3,Reported incident of cheating in Bengaluru area.
+Theft,12.865308,77.667513,4,Reported incident of theft in Bengaluru area.
+Cyber Crime,12.86554,77.741277,3,Reported incident of cyber crime in Bengaluru area.
+Robbery,12.865801,77.595031,9,Reported incident of robbery in Bengaluru area.
+Gambling,12.865843,77.641212,2,Reported incident of gambling in Bengaluru area.
+Public Nuisance,12.866055,77.636785,1,Reported incident of public nuisance in Bengaluru area.
+Robbery,12.866195,77.504523,7,Reported incident of robbery in Bengaluru area.
+Assault,12.866225,77.518838,6,Reported incident of assault in Bengaluru area.
+Gambling,12.866676,77.461322,1,Reported incident of gambling in Bengaluru area.
+Cyber Crime,12.867063,77.580108,4,Reported incident of cyber crime in Bengaluru area.
+Murder,12.867143,77.602863,10,Reported incident of murder in Bengaluru area.
+Cyber Crime,12.86733,77.72296,5,Reported incident of cyber crime in Bengaluru area.
+Theft,12.867781,77.679677,5,Reported incident of theft in Bengaluru area.
+Dacoity,12.867799,77.718427,8,Reported incident of dacoity in Bengaluru area.
+Cheating,12.867884,77.628592,4,Reported incident of cheating in Bengaluru area.
+Murder,12.868711,77.512516,10,Reported incident of murder in Bengaluru area.
+Theft,12.869034,77.572817,5,Reported incident of theft in Bengaluru area.
+Rape,12.869049,77.657772,10,Reported incident of rape in Bengaluru area.
+Gambling,12.869458,77.69277,2,Reported incident of gambling in Bengaluru area.
+Dacoity,12.869648,77.690247,8,Reported incident of dacoity in Bengaluru area.
+Cheating,12.869863,77.65396,3,Reported incident of cheating in Bengaluru area.
+Theft,12.870272,77.718088,5,Reported incident of theft in Bengaluru area.
+Public Nuisance,12.870548,77.565479,1,Reported incident of public nuisance in Bengaluru area.
+Murder,12.870571,77.757359,10,Reported incident of murder in Bengaluru area.
+Cyber Crime,12.870639,77.76977,4,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,12.870675,77.679827,8,Reported incident of kidnapping in Bengaluru area.
+Dacoity,12.870698,77.72305,9,Reported incident of dacoity in Bengaluru area.
+Rape,12.870723,77.664541,10,Reported incident of rape in Bengaluru area.
+Burglary,12.870859,77.616258,8,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.872104,77.599115,3,Reported incident of public nuisance in Bengaluru area.
+Rape,12.872171,77.530952,10,Reported incident of rape in Bengaluru area.
+Murder,12.872245,77.504286,10,Reported incident of murder in Bengaluru area.
+Cyber Crime,12.872666,77.495409,4,Reported incident of cyber crime in Bengaluru area.
+Dacoity,12.87301,77.697009,10,Reported incident of dacoity in Bengaluru area.
+Robbery,12.873766,77.717179,8,Reported incident of robbery in Bengaluru area.
+Assault,12.873998,77.492063,6,Reported incident of assault in Bengaluru area.
+Theft,12.874348,77.560408,4,Reported incident of theft in Bengaluru area.
+Cheating,12.875367,77.680931,2,Reported incident of cheating in Bengaluru area.
+Kidnapping,12.875459,77.546901,8,Reported incident of kidnapping in Bengaluru area.
+Theft,12.875644,77.544648,6,Reported incident of theft in Bengaluru area.
+Murder,12.875887,77.493456,9,Reported incident of murder in Bengaluru area.
+Cyber Crime,12.876075,77.630953,3,Reported incident of cyber crime in Bengaluru area.
+Assault,12.87608,77.664706,6,Reported incident of assault in Bengaluru area.
+Cheating,12.876415,77.502169,4,Reported incident of cheating in Bengaluru area.
+Cyber Crime,12.876502,77.765859,5,Reported incident of cyber crime in Bengaluru area.
+Public Nuisance,12.877401,77.744,2,Reported incident of public nuisance in Bengaluru area.
+Cyber Crime,12.877716,77.702861,5,Reported incident of cyber crime in Bengaluru area.
+Dacoity,12.878071,77.592327,8,Reported incident of dacoity in Bengaluru area.
+Murder,12.878246,77.632457,10,Reported incident of murder in Bengaluru area.
+Assault,12.878535,77.510516,7,Reported incident of assault in Bengaluru area.
+Theft,12.87908,77.543922,6,Reported incident of theft in Bengaluru area.
+Robbery,12.879605,77.50778,9,Reported incident of robbery in Bengaluru area.
+Cheating,12.879893,77.560632,4,Reported incident of cheating in Bengaluru area.
+Cheating,12.880753,77.52849,4,Reported incident of cheating in Bengaluru area.
+Public Nuisance,12.881678,77.497026,1,Reported incident of public nuisance in Bengaluru area.
+Assault,12.881732,77.624141,6,Reported incident of assault in Bengaluru area.
+Rape,12.882418,77.680913,10,Reported incident of rape in Bengaluru area.
+Dacoity,12.883353,77.56476,10,Reported incident of dacoity in Bengaluru area.
+Assault,12.883452,77.706398,6,Reported incident of assault in Bengaluru area.
+Robbery,12.883646,77.670005,7,Reported incident of robbery in Bengaluru area.
+Theft,12.883657,77.638627,4,Reported incident of theft in Bengaluru area.
+Assault,12.883712,77.778307,7,Reported incident of assault in Bengaluru area.
+Burglary,12.884608,77.59329,7,Reported incident of burglary in Bengaluru area.
+Theft,12.884843,77.596773,6,Reported incident of theft in Bengaluru area.
+Cheating,12.885052,77.77672,4,Reported incident of cheating in Bengaluru area.
+Cyber Crime,12.885199,77.743543,4,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,12.885291,77.59012,5,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,12.885383,77.642461,9,Reported incident of kidnapping in Bengaluru area.
+Burglary,12.885592,77.723093,7,Reported incident of burglary in Bengaluru area.
+Rape,12.886347,77.640214,10,Reported incident of rape in Bengaluru area.
+Burglary,12.886379,77.5957,8,Reported incident of burglary in Bengaluru area.
+Gambling,12.886798,77.57178,1,Reported incident of gambling in Bengaluru area.
+Assault,12.887463,77.558391,7,Reported incident of assault in Bengaluru area.
+Public Nuisance,12.887651,77.774327,2,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,12.888156,77.768614,1,Reported incident of public nuisance in Bengaluru area.
+Gambling,12.888215,77.480969,2,Reported incident of gambling in Bengaluru area.
+Assault,12.888336,77.582784,6,Reported incident of assault in Bengaluru area.
+Theft,12.888431,77.65806,5,Reported incident of theft in Bengaluru area.
+Assault,12.888487,77.711036,5,Reported incident of assault in Bengaluru area.
+Rape,12.888525,77.674165,10,Reported incident of rape in Bengaluru area.
+Dacoity,12.888723,77.52682,9,Reported incident of dacoity in Bengaluru area.
+Gambling,12.888883,77.469423,2,Reported incident of gambling in Bengaluru area.
+Public Nuisance,12.889419,77.514576,3,Reported incident of public nuisance in Bengaluru area.
+Gambling,12.889531,77.704208,1,Reported incident of gambling in Bengaluru area.
+Gambling,12.88964,77.698824,1,Reported incident of gambling in Bengaluru area.
+Cheating,12.889939,77.598018,3,Reported incident of cheating in Bengaluru area.
+Assault,12.889956,77.735207,6,Reported incident of assault in Bengaluru area.
+Kidnapping,12.890085,77.720766,8,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,12.890262,77.623688,2,Reported incident of public nuisance in Bengaluru area.
+Burglary,12.890548,77.633832,7,Reported incident of burglary in Bengaluru area.
+Cyber Crime,12.891044,77.509199,3,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,12.89134,77.607083,4,Reported incident of cyber crime in Bengaluru area.
+Burglary,12.891375,77.523993,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.891662,77.762844,3,Reported incident of public nuisance in Bengaluru area.
+Assault,12.891885,77.594689,7,Reported incident of assault in Bengaluru area.
+Cyber Crime,12.892311,77.741046,5,Reported incident of cyber crime in Bengaluru area.
+Assault,12.892585,77.494703,6,Reported incident of assault in Bengaluru area.
+Kidnapping,12.893296,77.684931,8,Reported incident of kidnapping in Bengaluru area.
+Dacoity,12.893462,77.679779,9,Reported incident of dacoity in Bengaluru area.
+Rape,12.893683,77.66184,10,Reported incident of rape in Bengaluru area.
+Assault,12.893928,77.472142,5,Reported incident of assault in Bengaluru area.
+Rape,12.893978,77.480976,10,Reported incident of rape in Bengaluru area.
+Robbery,12.894295,77.698503,8,Reported incident of robbery in Bengaluru area.
+Kidnapping,12.894342,77.552724,9,Reported incident of kidnapping in Bengaluru area.
+Cheating,12.894598,77.767802,4,Reported incident of cheating in Bengaluru area.
+Burglary,12.894793,77.729828,7,Reported incident of burglary in Bengaluru area.
+Gambling,12.895091,77.598464,1,Reported incident of gambling in Bengaluru area.
+Public Nuisance,12.895112,77.718859,3,Reported incident of public nuisance in Bengaluru area.
+Burglary,12.895989,77.525056,7,Reported incident of burglary in Bengaluru area.
+Cheating,12.896068,77.663499,2,Reported incident of cheating in Bengaluru area.
+Assault,12.896302,77.483195,6,Reported incident of assault in Bengaluru area.
+Murder,12.896797,77.499903,10,Reported incident of murder in Bengaluru area.
+Burglary,12.896967,77.774394,6,Reported incident of burglary in Bengaluru area.
+Theft,12.896972,77.672523,5,Reported incident of theft in Bengaluru area.
+Gambling,12.897806,77.663316,1,Reported incident of gambling in Bengaluru area.
+Cheating,12.898092,77.511648,2,Reported incident of cheating in Bengaluru area.
+Cyber Crime,12.898294,77.602262,5,Reported incident of cyber crime in Bengaluru area.
+Dacoity,12.898878,77.766168,9,Reported incident of dacoity in Bengaluru area.
+Assault,12.898954,77.496926,5,Reported incident of assault in Bengaluru area.
+Robbery,12.898968,77.571239,8,Reported incident of robbery in Bengaluru area.
+Murder,12.899429,77.460544,10,Reported incident of murder in Bengaluru area.
+Dacoity,12.899807,77.517842,8,Reported incident of dacoity in Bengaluru area.
+Murder,12.899864,77.723841,10,Reported incident of murder in Bengaluru area.
+Robbery,12.899886,77.634339,8,Reported incident of robbery in Bengaluru area.
+Kidnapping,12.900638,77.718503,7,Reported incident of kidnapping in Bengaluru area.
+Murder,12.900926,77.486353,9,Reported incident of murder in Bengaluru area.
+Gambling,12.901165,77.510085,1,Reported incident of gambling in Bengaluru area.
+Public Nuisance,12.901516,77.646937,3,Reported incident of public nuisance in Bengaluru area.
+Theft,12.901642,77.701908,5,Reported incident of theft in Bengaluru area.
+Burglary,12.901706,77.545147,6,Reported incident of burglary in Bengaluru area.
+Theft,12.901857,77.574866,6,Reported incident of theft in Bengaluru area.
+Dacoity,12.901871,77.498813,9,Reported incident of dacoity in Bengaluru area.
+Rape,12.902081,77.602343,10,Reported incident of rape in Bengaluru area.
+Gambling,12.902116,77.581279,2,Reported incident of gambling in Bengaluru area.
+Gambling,12.902259,77.650595,1,Reported incident of gambling in Bengaluru area.
+Cyber Crime,12.90239,77.611535,5,Reported incident of cyber crime in Bengaluru area.
+Rape,12.902917,77.536679,10,Reported incident of rape in Bengaluru area.
+Dacoity,12.902965,77.55192,9,Reported incident of dacoity in Bengaluru area.
+Assault,12.903221,77.729858,7,Reported incident of assault in Bengaluru area.
+Dacoity,12.90325,77.716703,10,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,12.90335,77.472147,3,Reported incident of public nuisance in Bengaluru area.
+Rape,12.903664,77.751829,10,Reported incident of rape in Bengaluru area.
+Gambling,12.903739,77.485282,1,Reported incident of gambling in Bengaluru area.
+Kidnapping,12.903807,77.505839,9,Reported incident of kidnapping in Bengaluru area.
+Assault,12.904315,77.572669,6,Reported incident of assault in Bengaluru area.
+Murder,12.904863,77.576974,10,Reported incident of murder in Bengaluru area.
+Assault,12.904868,77.592529,6,Reported incident of assault in Bengaluru area.
+Assault,12.905113,77.621789,5,Reported incident of assault in Bengaluru area.
+Theft,12.90546,77.603391,6,Reported incident of theft in Bengaluru area.
+Rape,12.90582,77.567743,10,Reported incident of rape in Bengaluru area.
+Robbery,12.905831,77.489926,8,Reported incident of robbery in Bengaluru area.
+Cheating,12.906727,77.67087,2,Reported incident of cheating in Bengaluru area.
+Public Nuisance,12.906818,77.738091,2,Reported incident of public nuisance in Bengaluru area.
+Gambling,12.907226,77.591117,1,Reported incident of gambling in Bengaluru area.
+Burglary,12.907287,77.559104,8,Reported incident of burglary in Bengaluru area.
+Rape,12.907545,77.564039,10,Reported incident of rape in Bengaluru area.
+Burglary,12.90795,77.748831,7,Reported incident of burglary in Bengaluru area.
+Dacoity,12.90837,77.547718,8,Reported incident of dacoity in Bengaluru area.
+Theft,12.9085,77.551859,6,Reported incident of theft in Bengaluru area.
+Cyber Crime,12.908668,77.539385,5,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,12.908776,77.756642,7,Reported incident of kidnapping in Bengaluru area.
+Kidnapping,12.910117,77.658825,9,Reported incident of kidnapping in Bengaluru area.
+Dacoity,12.910467,77.680196,9,Reported incident of dacoity in Bengaluru area.
+Rape,12.910556,77.692882,10,Reported incident of rape in Bengaluru area.
+Rape,12.911022,77.545371,10,Reported incident of rape in Bengaluru area.
+Kidnapping,12.91148,77.471137,8,Reported incident of kidnapping in Bengaluru area.
+Murder,12.911625,77.693954,10,Reported incident of murder in Bengaluru area.
+Theft,12.91314,77.490591,4,Reported incident of theft in Bengaluru area.
+Kidnapping,12.91351,77.697497,7,Reported incident of kidnapping in Bengaluru area.
+Cheating,12.913861,77.547764,4,Reported incident of cheating in Bengaluru area.
+Burglary,12.914301,77.480632,6,Reported incident of burglary in Bengaluru area.
+Kidnapping,12.914347,77.770457,9,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,12.916458,77.743808,2,Reported incident of public nuisance in Bengaluru area.
+Burglary,12.91659,77.521321,7,Reported incident of burglary in Bengaluru area.
+Assault,12.916699,77.766236,5,Reported incident of assault in Bengaluru area.
+Cyber Crime,12.916896,77.505082,5,Reported incident of cyber crime in Bengaluru area.
+Robbery,12.917022,77.502212,8,Reported incident of robbery in Bengaluru area.
+Dacoity,12.917122,77.572989,9,Reported incident of dacoity in Bengaluru area.
+Assault,12.917478,77.682077,6,Reported incident of assault in Bengaluru area.
+Public Nuisance,12.91749,77.56872,2,Reported incident of public nuisance in Bengaluru area.
+Cyber Crime,12.917733,77.750825,3,Reported incident of cyber crime in Bengaluru area.
+Rape,12.917941,77.627097,9,Reported incident of rape in Bengaluru area.
+Dacoity,12.918053,77.664509,9,Reported incident of dacoity in Bengaluru area.
+Robbery,12.91871,77.721092,7,Reported incident of robbery in Bengaluru area.
+Kidnapping,12.919103,77.71178,7,Reported incident of kidnapping in Bengaluru area.
+Murder,12.919253,77.47235,10,Reported incident of murder in Bengaluru area.
+Dacoity,12.919291,77.580871,10,Reported incident of dacoity in Bengaluru area.
+Dacoity,12.919319,77.733901,9,Reported incident of dacoity in Bengaluru area.
+Theft,12.919468,77.629037,6,Reported incident of theft in Bengaluru area.
+Gambling,12.919843,77.733762,1,Reported incident of gambling in Bengaluru area.
+Cyber Crime,12.92001,77.754654,3,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,12.920283,77.754384,5,Reported incident of cyber crime in Bengaluru area.
+Theft,12.920531,77.69675,5,Reported incident of theft in Bengaluru area.
+Rape,12.920719,77.598092,9,Reported incident of rape in Bengaluru area.
+Gambling,12.920774,77.702599,1,Reported incident of gambling in Bengaluru area.
+Cheating,12.92092,77.599951,4,Reported incident of cheating in Bengaluru area.
+Kidnapping,12.921324,77.641413,7,Reported incident of kidnapping in Bengaluru area.
+Robbery,12.921331,77.514051,7,Reported incident of robbery in Bengaluru area.
+Burglary,12.921574,77.749059,7,Reported incident of burglary in Bengaluru area.
+Theft,12.922143,77.728483,5,Reported incident of theft in Bengaluru area.
+Cyber Crime,12.922642,77.491403,3,Reported incident of cyber crime in Bengaluru area.
+Theft,12.922782,77.611595,6,Reported incident of theft in Bengaluru area.
+Cheating,12.922937,77.523949,4,Reported incident of cheating in Bengaluru area.
+Rape,12.922945,77.777451,10,Reported incident of rape in Bengaluru area.
+Assault,12.922982,77.716966,6,Reported incident of assault in Bengaluru area.
+Dacoity,12.923297,77.772688,9,Reported incident of dacoity in Bengaluru area.
+Murder,12.92336,77.505616,10,Reported incident of murder in Bengaluru area.
+Burglary,12.924072,77.520296,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.924387,77.538985,3,Reported incident of public nuisance in Bengaluru area.
+Cheating,12.924409,77.540088,3,Reported incident of cheating in Bengaluru area.
+Robbery,12.924798,77.658707,9,Reported incident of robbery in Bengaluru area.
+Dacoity,12.92533,77.519325,8,Reported incident of dacoity in Bengaluru area.
+Dacoity,12.925705,77.578767,10,Reported incident of dacoity in Bengaluru area.
+Burglary,12.926052,77.75089,8,Reported incident of burglary in Bengaluru area.
+Gambling,12.926122,77.729001,2,Reported incident of gambling in Bengaluru area.
+Robbery,12.926491,77.517459,9,Reported incident of robbery in Bengaluru area.
+Burglary,12.926739,77.730744,8,Reported incident of burglary in Bengaluru area.
+Rape,12.927682,77.626903,10,Reported incident of rape in Bengaluru area.
+Robbery,12.927832,77.550033,7,Reported incident of robbery in Bengaluru area.
+Burglary,12.928243,77.484741,7,Reported incident of burglary in Bengaluru area.
+Rape,12.928617,77.535213,9,Reported incident of rape in Bengaluru area.
+Cheating,12.928877,77.641547,2,Reported incident of cheating in Bengaluru area.
+Assault,12.929231,77.637708,5,Reported incident of assault in Bengaluru area.
+Burglary,12.929396,77.705368,6,Reported incident of burglary in Bengaluru area.
+Theft,12.929554,77.552613,5,Reported incident of theft in Bengaluru area.
+Murder,12.929641,77.506053,9,Reported incident of murder in Bengaluru area.
+Cyber Crime,12.929691,77.528113,3,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,12.929692,77.724927,3,Reported incident of cyber crime in Bengaluru area.
+Gambling,12.930317,77.72134,1,Reported incident of gambling in Bengaluru area.
+Public Nuisance,12.931447,77.771027,3,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,12.931895,77.466037,1,Reported incident of public nuisance in Bengaluru area.
+Dacoity,12.932138,77.492864,9,Reported incident of dacoity in Bengaluru area.
+Kidnapping,12.932498,77.514322,8,Reported incident of kidnapping in Bengaluru area.
+Cyber Crime,12.932744,77.683512,4,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,12.93341,77.703502,9,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,12.933903,77.670931,1,Reported incident of public nuisance in Bengaluru area.
+Cheating,12.934153,77.488075,3,Reported incident of cheating in Bengaluru area.
+Dacoity,12.934882,77.480033,9,Reported incident of dacoity in Bengaluru area.
+Rape,12.935259,77.48682,10,Reported incident of rape in Bengaluru area.
+Cheating,12.935328,77.672867,2,Reported incident of cheating in Bengaluru area.
+Assault,12.935507,77.631979,6,Reported incident of assault in Bengaluru area.
+Theft,12.936098,77.680858,5,Reported incident of theft in Bengaluru area.
+Theft,12.93612,77.493523,4,Reported incident of theft in Bengaluru area.
+Cheating,12.936746,77.625997,3,Reported incident of cheating in Bengaluru area.
+Rape,12.936854,77.696484,10,Reported incident of rape in Bengaluru area.
+Assault,12.937309,77.566428,6,Reported incident of assault in Bengaluru area.
+Burglary,12.937396,77.642939,8,Reported incident of burglary in Bengaluru area.
+Rape,12.938364,77.59955,10,Reported incident of rape in Bengaluru area.
+Public Nuisance,12.938644,77.751359,1,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,12.938688,77.739719,2,Reported incident of public nuisance in Bengaluru area.
+Rape,12.939227,77.558883,9,Reported incident of rape in Bengaluru area.
+Gambling,12.939237,77.64431,2,Reported incident of gambling in Bengaluru area.
+Cheating,12.939569,77.704097,2,Reported incident of cheating in Bengaluru area.
+Robbery,12.939911,77.606194,7,Reported incident of robbery in Bengaluru area.
+Theft,12.940219,77.497906,5,Reported incident of theft in Bengaluru area.
+Murder,12.940266,77.686584,10,Reported incident of murder in Bengaluru area.
+Robbery,12.940622,77.7731,7,Reported incident of robbery in Bengaluru area.
+Cyber Crime,12.941242,77.611419,4,Reported incident of cyber crime in Bengaluru area.
+Dacoity,12.941303,77.483072,8,Reported incident of dacoity in Bengaluru area.
+Cheating,12.941791,77.665207,4,Reported incident of cheating in Bengaluru area.
+Burglary,12.941925,77.560754,7,Reported incident of burglary in Bengaluru area.
+Cyber Crime,12.941976,77.739684,4,Reported incident of cyber crime in Bengaluru area.
+Dacoity,12.941996,77.659285,8,Reported incident of dacoity in Bengaluru area.
+Dacoity,12.942013,77.735562,10,Reported incident of dacoity in Bengaluru area.
+Robbery,12.942081,77.714426,9,Reported incident of robbery in Bengaluru area.
+Gambling,12.942994,77.748444,1,Reported incident of gambling in Bengaluru area.
+Kidnapping,12.943815,77.718792,7,Reported incident of kidnapping in Bengaluru area.
+Murder,12.94494,77.75848,10,Reported incident of murder in Bengaluru area.
+Robbery,12.945067,77.547114,9,Reported incident of robbery in Bengaluru area.
+Public Nuisance,12.945425,77.752362,3,Reported incident of public nuisance in Bengaluru area.
+Gambling,12.945979,77.767854,2,Reported incident of gambling in Bengaluru area.
+Public Nuisance,12.946056,77.767989,2,Reported incident of public nuisance in Bengaluru area.
+Murder,12.946462,77.53143,10,Reported incident of murder in Bengaluru area.
+Rape,12.946511,77.577061,10,Reported incident of rape in Bengaluru area.
+Burglary,12.946859,77.736835,6,Reported incident of burglary in Bengaluru area.
+Cheating,12.947302,77.483461,4,Reported incident of cheating in Bengaluru area.
+Dacoity,12.948342,77.498375,9,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,12.948921,77.488589,3,Reported incident of public nuisance in Bengaluru area.
+Rape,12.949706,77.529202,9,Reported incident of rape in Bengaluru area.
+Cheating,12.949903,77.703488,2,Reported incident of cheating in Bengaluru area.
+Murder,12.949936,77.723112,9,Reported incident of murder in Bengaluru area.
+Theft,12.950106,77.648195,6,Reported incident of theft in Bengaluru area.
+Dacoity,12.950338,77.696613,10,Reported incident of dacoity in Bengaluru area.
+Gambling,12.951102,77.749999,2,Reported incident of gambling in Bengaluru area.
+Dacoity,12.95119,77.634942,9,Reported incident of dacoity in Bengaluru area.
+Kidnapping,12.951383,77.687672,7,Reported incident of kidnapping in Bengaluru area.
+Cyber Crime,12.951423,77.740761,3,Reported incident of cyber crime in Bengaluru area.
+Robbery,12.951468,77.6649,8,Reported incident of robbery in Bengaluru area.
+Public Nuisance,12.952125,77.685758,1,Reported incident of public nuisance in Bengaluru area.
+Cyber Crime,12.952204,77.632398,4,Reported incident of cyber crime in Bengaluru area.
+Theft,12.952238,77.553718,4,Reported incident of theft in Bengaluru area.
+Burglary,12.952253,77.578881,6,Reported incident of burglary in Bengaluru area.
+Burglary,12.953041,77.624163,7,Reported incident of burglary in Bengaluru area.
+Assault,12.953219,77.557414,7,Reported incident of assault in Bengaluru area.
+Dacoity,12.953644,77.622974,10,Reported incident of dacoity in Bengaluru area.
+Cyber Crime,12.953644,77.658828,3,Reported incident of cyber crime in Bengaluru area.
+Burglary,12.954191,77.506731,6,Reported incident of burglary in Bengaluru area.
+Rape,12.954711,77.474371,10,Reported incident of rape in Bengaluru area.
+Cyber Crime,12.954949,77.538516,5,Reported incident of cyber crime in Bengaluru area.
+Assault,12.955264,77.586481,6,Reported incident of assault in Bengaluru area.
+Dacoity,12.955396,77.47898,10,Reported incident of dacoity in Bengaluru area.
+Assault,12.955579,77.593163,6,Reported incident of assault in Bengaluru area.
+Murder,12.955582,77.469775,10,Reported incident of murder in Bengaluru area.
+Kidnapping,12.956096,77.744872,7,Reported incident of kidnapping in Bengaluru area.
+Robbery,12.956699,77.600295,7,Reported incident of robbery in Bengaluru area.
+Gambling,12.956793,77.683547,1,Reported incident of gambling in Bengaluru area.
+Murder,12.957623,77.473965,9,Reported incident of murder in Bengaluru area.
+Kidnapping,12.957698,77.526985,9,Reported incident of kidnapping in Bengaluru area.
+Kidnapping,12.957853,77.670419,8,Reported incident of kidnapping in Bengaluru area.
+Gambling,12.957993,77.732797,1,Reported incident of gambling in Bengaluru area.
+Public Nuisance,12.958026,77.572284,3,Reported incident of public nuisance in Bengaluru area.
+Cyber Crime,12.958276,77.749084,4,Reported incident of cyber crime in Bengaluru area.
+Murder,12.958848,77.779516,9,Reported incident of murder in Bengaluru area.
+Robbery,12.959016,77.488885,7,Reported incident of robbery in Bengaluru area.
+Cheating,12.959105,77.662707,2,Reported incident of cheating in Bengaluru area.
+Robbery,12.959152,77.553461,8,Reported incident of robbery in Bengaluru area.
+Burglary,12.959177,77.55085,8,Reported incident of burglary in Bengaluru area.
+Burglary,12.959635,77.65923,8,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.959646,77.757582,2,Reported incident of public nuisance in Bengaluru area.
+Robbery,12.959656,77.714387,7,Reported incident of robbery in Bengaluru area.
+Dacoity,12.960474,77.474421,9,Reported incident of dacoity in Bengaluru area.
+Cyber Crime,12.961248,77.661545,5,Reported incident of cyber crime in Bengaluru area.
+Rape,12.961309,77.66352,10,Reported incident of rape in Bengaluru area.
+Dacoity,12.961346,77.657368,10,Reported incident of dacoity in Bengaluru area.
+Theft,12.961446,77.602487,5,Reported incident of theft in Bengaluru area.
+Robbery,12.961531,77.580436,8,Reported incident of robbery in Bengaluru area.
+Gambling,12.961538,77.516348,1,Reported incident of gambling in Bengaluru area.
+Theft,12.961681,77.737922,4,Reported incident of theft in Bengaluru area.
+Dacoity,12.961871,77.623742,9,Reported incident of dacoity in Bengaluru area.
+Dacoity,12.962241,77.543305,10,Reported incident of dacoity in Bengaluru area.
+Rape,12.962964,77.483269,9,Reported incident of rape in Bengaluru area.
+Robbery,12.963607,77.574296,7,Reported incident of robbery in Bengaluru area.
+Theft,12.964147,77.564768,5,Reported incident of theft in Bengaluru area.
+Burglary,12.964177,77.687008,6,Reported incident of burglary in Bengaluru area.
+Cheating,12.964426,77.764816,3,Reported incident of cheating in Bengaluru area.
+Robbery,12.964659,77.552036,8,Reported incident of robbery in Bengaluru area.
+Public Nuisance,12.96499,77.727971,2,Reported incident of public nuisance in Bengaluru area.
+Rape,12.965419,77.554312,10,Reported incident of rape in Bengaluru area.
+Kidnapping,12.965495,77.661122,8,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,12.965624,77.693099,2,Reported incident of public nuisance in Bengaluru area.
+Cheating,12.965656,77.770701,4,Reported incident of cheating in Bengaluru area.
+Cyber Crime,12.966274,77.760404,5,Reported incident of cyber crime in Bengaluru area.
+Theft,12.966788,77.592645,6,Reported incident of theft in Bengaluru area.
+Theft,12.96698,77.497048,6,Reported incident of theft in Bengaluru area.
+Public Nuisance,12.967077,77.731992,2,Reported incident of public nuisance in Bengaluru area.
+Gambling,12.967127,77.562289,1,Reported incident of gambling in Bengaluru area.
+Theft,12.967178,77.757303,4,Reported incident of theft in Bengaluru area.
+Kidnapping,12.967355,77.566506,7,Reported incident of kidnapping in Bengaluru area.
+Assault,12.967401,77.724191,5,Reported incident of assault in Bengaluru area.
+Rape,12.967682,77.522518,9,Reported incident of rape in Bengaluru area.
+Cheating,12.967864,77.555366,4,Reported incident of cheating in Bengaluru area.
+Kidnapping,12.968319,77.535232,7,Reported incident of kidnapping in Bengaluru area.
+Theft,12.968361,77.747758,5,Reported incident of theft in Bengaluru area.
+Public Nuisance,12.96853,77.512632,2,Reported incident of public nuisance in Bengaluru area.
+Dacoity,12.969671,77.646345,10,Reported incident of dacoity in Bengaluru area.
+Theft,12.969841,77.569035,5,Reported incident of theft in Bengaluru area.
+Burglary,12.969881,77.482051,8,Reported incident of burglary in Bengaluru area.
+Assault,12.969965,77.653409,6,Reported incident of assault in Bengaluru area.
+Murder,12.970054,77.523868,10,Reported incident of murder in Bengaluru area.
+Public Nuisance,12.970403,77.477467,3,Reported incident of public nuisance in Bengaluru area.
+Cyber Crime,12.970478,77.716371,5,Reported incident of cyber crime in Bengaluru area.
+Assault,12.970675,77.46611,6,Reported incident of assault in Bengaluru area.
+Robbery,12.97069,77.460559,7,Reported incident of robbery in Bengaluru area.
+Robbery,12.971195,77.56536,7,Reported incident of robbery in Bengaluru area.
+Murder,12.971298,77.664214,10,Reported incident of murder in Bengaluru area.
+Rape,12.971529,77.465613,9,Reported incident of rape in Bengaluru area.
+Theft,12.971899,77.759675,6,Reported incident of theft in Bengaluru area.
+Assault,12.972161,77.646485,6,Reported incident of assault in Bengaluru area.
+Cyber Crime,12.972542,77.513675,4,Reported incident of cyber crime in Bengaluru area.
+Burglary,12.973309,77.504504,7,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.973401,77.630137,2,Reported incident of public nuisance in Bengaluru area.
+Assault,12.974006,77.72619,5,Reported incident of assault in Bengaluru area.
+Dacoity,12.97401,77.711736,8,Reported incident of dacoity in Bengaluru area.
+Burglary,12.974049,77.724063,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.974138,77.526584,3,Reported incident of public nuisance in Bengaluru area.
+Dacoity,12.974339,77.689654,8,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,12.974519,77.72397,2,Reported incident of public nuisance in Bengaluru area.
+Dacoity,12.974584,77.662524,9,Reported incident of dacoity in Bengaluru area.
+Assault,12.97479,77.751162,5,Reported incident of assault in Bengaluru area.
+Rape,12.974878,77.71275,10,Reported incident of rape in Bengaluru area.
+Cheating,12.975287,77.671271,2,Reported incident of cheating in Bengaluru area.
+Robbery,12.975667,77.563106,7,Reported incident of robbery in Bengaluru area.
+Murder,12.976599,77.54712,10,Reported incident of murder in Bengaluru area.
+Murder,12.97725,77.522206,9,Reported incident of murder in Bengaluru area.
+Rape,12.977513,77.664286,9,Reported incident of rape in Bengaluru area.
+Burglary,12.977674,77.767238,7,Reported incident of burglary in Bengaluru area.
+Robbery,12.977754,77.472031,7,Reported incident of robbery in Bengaluru area.
+Burglary,12.977832,77.585035,6,Reported incident of burglary in Bengaluru area.
+Burglary,12.978513,77.632904,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.978555,77.743307,3,Reported incident of public nuisance in Bengaluru area.
+Theft,12.978624,77.510652,4,Reported incident of theft in Bengaluru area.
+Gambling,12.978788,77.631039,1,Reported incident of gambling in Bengaluru area.
+Cyber Crime,12.978809,77.492039,5,Reported incident of cyber crime in Bengaluru area.
+Public Nuisance,12.97902,77.741098,1,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,12.979023,77.605644,1,Reported incident of public nuisance in Bengaluru area.
+Theft,12.98094,77.726232,6,Reported incident of theft in Bengaluru area.
+Gambling,12.981535,77.638169,1,Reported incident of gambling in Bengaluru area.
+Murder,12.981629,77.472936,10,Reported incident of murder in Bengaluru area.
+Robbery,12.9817,77.644054,9,Reported incident of robbery in Bengaluru area.
+Cheating,12.981918,77.65429,3,Reported incident of cheating in Bengaluru area.
+Cheating,12.981942,77.504228,4,Reported incident of cheating in Bengaluru area.
+Gambling,12.982005,77.494719,1,Reported incident of gambling in Bengaluru area.
+Murder,12.982637,77.711409,9,Reported incident of murder in Bengaluru area.
+Public Nuisance,12.982823,77.52464,1,Reported incident of public nuisance in Bengaluru area.
+Robbery,12.983255,77.631044,7,Reported incident of robbery in Bengaluru area.
+Murder,12.983382,77.778098,10,Reported incident of murder in Bengaluru area.
+Cheating,12.983523,77.565413,3,Reported incident of cheating in Bengaluru area.
+Gambling,12.983975,77.571354,1,Reported incident of gambling in Bengaluru area.
+Gambling,12.984509,77.479109,1,Reported incident of gambling in Bengaluru area.
+Assault,12.984525,77.759663,5,Reported incident of assault in Bengaluru area.
+Murder,12.984599,77.625853,10,Reported incident of murder in Bengaluru area.
+Murder,12.984814,77.582663,9,Reported incident of murder in Bengaluru area.
+Cheating,12.984978,77.759787,4,Reported incident of cheating in Bengaluru area.
+Theft,12.985186,77.614511,6,Reported incident of theft in Bengaluru area.
+Kidnapping,12.986518,77.488261,8,Reported incident of kidnapping in Bengaluru area.
+Burglary,12.987325,77.610295,7,Reported incident of burglary in Bengaluru area.
+Cyber Crime,12.987792,77.515956,3,Reported incident of cyber crime in Bengaluru area.
+Assault,12.98807,77.70293,5,Reported incident of assault in Bengaluru area.
+Robbery,12.988284,77.686044,8,Reported incident of robbery in Bengaluru area.
+Burglary,12.988562,77.481129,6,Reported incident of burglary in Bengaluru area.
+Cyber Crime,12.988653,77.467121,3,Reported incident of cyber crime in Bengaluru area.
+Rape,12.988741,77.538102,10,Reported incident of rape in Bengaluru area.
+Gambling,12.988926,77.687592,1,Reported incident of gambling in Bengaluru area.
+Assault,12.989197,77.555154,6,Reported incident of assault in Bengaluru area.
+Public Nuisance,12.989501,77.53307,1,Reported incident of public nuisance in Bengaluru area.
+Murder,12.98991,77.533866,9,Reported incident of murder in Bengaluru area.
+Murder,12.990174,77.769847,10,Reported incident of murder in Bengaluru area.
+Rape,12.990372,77.773769,10,Reported incident of rape in Bengaluru area.
+Theft,12.990852,77.54475,6,Reported incident of theft in Bengaluru area.
+Theft,12.990853,77.535079,5,Reported incident of theft in Bengaluru area.
+Dacoity,12.99087,77.725239,9,Reported incident of dacoity in Bengaluru area.
+Cheating,12.991244,77.477824,3,Reported incident of cheating in Bengaluru area.
+Cyber Crime,12.992052,77.54972,4,Reported incident of cyber crime in Bengaluru area.
+Gambling,12.992368,77.526737,2,Reported incident of gambling in Bengaluru area.
+Kidnapping,12.992409,77.510812,7,Reported incident of kidnapping in Bengaluru area.
+Rape,12.992709,77.567039,9,Reported incident of rape in Bengaluru area.
+Dacoity,12.992722,77.460651,8,Reported incident of dacoity in Bengaluru area.
+Burglary,12.993199,77.678174,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,12.993923,77.7061,3,Reported incident of public nuisance in Bengaluru area.
+Cheating,12.994098,77.470294,4,Reported incident of cheating in Bengaluru area.
+Murder,12.994103,77.56957,10,Reported incident of murder in Bengaluru area.
+Dacoity,12.994183,77.65227,10,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,12.994201,77.578942,1,Reported incident of public nuisance in Bengaluru area.
+Assault,12.99429,77.562939,7,Reported incident of assault in Bengaluru area.
+Kidnapping,12.994394,77.49999,9,Reported incident of kidnapping in Bengaluru area.
+Murder,12.994506,77.655835,10,Reported incident of murder in Bengaluru area.
+Kidnapping,12.994771,77.563542,8,Reported incident of kidnapping in Bengaluru area.
+Cyber Crime,12.99505,77.737466,5,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,12.995525,77.618328,8,Reported incident of kidnapping in Bengaluru area.
+Cyber Crime,12.995606,77.500753,5,Reported incident of cyber crime in Bengaluru area.
+Murder,12.995663,77.634683,9,Reported incident of murder in Bengaluru area.
+Rape,12.996088,77.472913,10,Reported incident of rape in Bengaluru area.
+Murder,12.996414,77.740032,10,Reported incident of murder in Bengaluru area.
+Kidnapping,12.996471,77.482719,7,Reported incident of kidnapping in Bengaluru area.
+Rape,12.996729,77.554518,9,Reported incident of rape in Bengaluru area.
+Robbery,12.997082,77.666802,8,Reported incident of robbery in Bengaluru area.
+Kidnapping,12.997381,77.571822,8,Reported incident of kidnapping in Bengaluru area.
+Dacoity,12.997397,77.664336,10,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,12.99776,77.722698,1,Reported incident of public nuisance in Bengaluru area.
+Robbery,12.997854,77.520914,7,Reported incident of robbery in Bengaluru area.
+Dacoity,12.998442,77.723625,9,Reported incident of dacoity in Bengaluru area.
+Dacoity,12.999979,77.53278,8,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,13.00023,77.697729,3,Reported incident of public nuisance in Bengaluru area.
+Cheating,13.000323,77.507977,3,Reported incident of cheating in Bengaluru area.
+Cheating,13.000536,77.703453,2,Reported incident of cheating in Bengaluru area.
+Rape,13.001293,77.506613,9,Reported incident of rape in Bengaluru area.
+Robbery,13.001432,77.615832,8,Reported incident of robbery in Bengaluru area.
+Kidnapping,13.001483,77.725797,8,Reported incident of kidnapping in Bengaluru area.
+Dacoity,13.002994,77.727077,10,Reported incident of dacoity in Bengaluru area.
+Robbery,13.003127,77.716987,8,Reported incident of robbery in Bengaluru area.
+Dacoity,13.003632,77.477464,8,Reported incident of dacoity in Bengaluru area.
+Burglary,13.003777,77.527347,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,13.005205,77.777838,2,Reported incident of public nuisance in Bengaluru area.
+Burglary,13.005281,77.526861,7,Reported incident of burglary in Bengaluru area.
+Assault,13.005618,77.481648,6,Reported incident of assault in Bengaluru area.
+Dacoity,13.005676,77.682657,8,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,13.005833,77.554986,1,Reported incident of public nuisance in Bengaluru area.
+Assault,13.005966,77.751184,5,Reported incident of assault in Bengaluru area.
+Kidnapping,13.006038,77.480055,8,Reported incident of kidnapping in Bengaluru area.
+Theft,13.006105,77.645012,5,Reported incident of theft in Bengaluru area.
+Public Nuisance,13.007866,77.640678,1,Reported incident of public nuisance in Bengaluru area.
+Gambling,13.008492,77.580675,1,Reported incident of gambling in Bengaluru area.
+Cyber Crime,13.008525,77.461574,3,Reported incident of cyber crime in Bengaluru area.
+Burglary,13.008945,77.743042,7,Reported incident of burglary in Bengaluru area.
+Gambling,13.00933,77.58839,1,Reported incident of gambling in Bengaluru area.
+Cyber Crime,13.009491,77.71145,4,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,13.009985,77.646407,4,Reported incident of cyber crime in Bengaluru area.
+Murder,13.010007,77.731584,10,Reported incident of murder in Bengaluru area.
+Gambling,13.010159,77.625131,1,Reported incident of gambling in Bengaluru area.
+Burglary,13.010523,77.748364,6,Reported incident of burglary in Bengaluru area.
+Gambling,13.010613,77.592308,1,Reported incident of gambling in Bengaluru area.
+Cyber Crime,13.010809,77.527546,5,Reported incident of cyber crime in Bengaluru area.
+Gambling,13.011897,77.727606,1,Reported incident of gambling in Bengaluru area.
+Assault,13.011928,77.577108,5,Reported incident of assault in Bengaluru area.
+Gambling,13.012481,77.585302,1,Reported incident of gambling in Bengaluru area.
+Murder,13.012537,77.512252,10,Reported incident of murder in Bengaluru area.
+Robbery,13.012801,77.748833,8,Reported incident of robbery in Bengaluru area.
+Assault,13.012899,77.584406,6,Reported incident of assault in Bengaluru area.
+Burglary,13.012989,77.480713,8,Reported incident of burglary in Bengaluru area.
+Burglary,13.013056,77.64599,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,13.013503,77.602919,3,Reported incident of public nuisance in Bengaluru area.
+Cyber Crime,13.013924,77.668447,5,Reported incident of cyber crime in Bengaluru area.
+Theft,13.014662,77.667099,6,Reported incident of theft in Bengaluru area.
+Burglary,13.015387,77.723935,7,Reported incident of burglary in Bengaluru area.
+Murder,13.015426,77.558003,10,Reported incident of murder in Bengaluru area.
+Theft,13.015574,77.585042,6,Reported incident of theft in Bengaluru area.
+Assault,13.015832,77.727423,5,Reported incident of assault in Bengaluru area.
+Murder,13.016053,77.752554,9,Reported incident of murder in Bengaluru area.
+Robbery,13.016585,77.586039,9,Reported incident of robbery in Bengaluru area.
+Rape,13.016999,77.590036,10,Reported incident of rape in Bengaluru area.
+Murder,13.017105,77.513278,10,Reported incident of murder in Bengaluru area.
+Theft,13.017403,77.479975,4,Reported incident of theft in Bengaluru area.
+Assault,13.018199,77.479262,5,Reported incident of assault in Bengaluru area.
+Rape,13.018587,77.583086,10,Reported incident of rape in Bengaluru area.
+Dacoity,13.018938,77.742288,10,Reported incident of dacoity in Bengaluru area.
+Cheating,13.018949,77.734596,2,Reported incident of cheating in Bengaluru area.
+Assault,13.019,77.623092,5,Reported incident of assault in Bengaluru area.
+Public Nuisance,13.019188,77.769878,2,Reported incident of public nuisance in Bengaluru area.
+Theft,13.019925,77.669805,5,Reported incident of theft in Bengaluru area.
+Cyber Crime,13.020252,77.569534,5,Reported incident of cyber crime in Bengaluru area.
+Public Nuisance,13.020276,77.497276,2,Reported incident of public nuisance in Bengaluru area.
+Assault,13.020316,77.475901,7,Reported incident of assault in Bengaluru area.
+Rape,13.020673,77.686704,10,Reported incident of rape in Bengaluru area.
+Rape,13.021146,77.484727,9,Reported incident of rape in Bengaluru area.
+Robbery,13.021362,77.590869,8,Reported incident of robbery in Bengaluru area.
+Murder,13.021448,77.762335,10,Reported incident of murder in Bengaluru area.
+Gambling,13.021654,77.667424,1,Reported incident of gambling in Bengaluru area.
+Assault,13.021953,77.569268,5,Reported incident of assault in Bengaluru area.
+Cheating,13.022312,77.591661,4,Reported incident of cheating in Bengaluru area.
+Cyber Crime,13.022634,77.465843,4,Reported incident of cyber crime in Bengaluru area.
+Murder,13.022776,77.736736,10,Reported incident of murder in Bengaluru area.
+Cyber Crime,13.023116,77.610005,3,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,13.023384,77.639865,5,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,13.023504,77.467366,9,Reported incident of kidnapping in Bengaluru area.
+Robbery,13.023517,77.540565,9,Reported incident of robbery in Bengaluru area.
+Kidnapping,13.024245,77.747933,7,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,13.024531,77.724719,2,Reported incident of public nuisance in Bengaluru area.
+Murder,13.025215,77.545018,9,Reported incident of murder in Bengaluru area.
+Rape,13.025299,77.568126,9,Reported incident of rape in Bengaluru area.
+Assault,13.025408,77.660702,5,Reported incident of assault in Bengaluru area.
+Burglary,13.025656,77.726011,6,Reported incident of burglary in Bengaluru area.
+Cheating,13.02601,77.624036,2,Reported incident of cheating in Bengaluru area.
+Dacoity,13.02655,77.716536,9,Reported incident of dacoity in Bengaluru area.
+Dacoity,13.026562,77.636703,8,Reported incident of dacoity in Bengaluru area.
+Cyber Crime,13.026687,77.547195,4,Reported incident of cyber crime in Bengaluru area.
+Theft,13.027075,77.499699,6,Reported incident of theft in Bengaluru area.
+Murder,13.02764,77.634877,9,Reported incident of murder in Bengaluru area.
+Assault,13.02787,77.567684,5,Reported incident of assault in Bengaluru area.
+Public Nuisance,13.027992,77.469392,1,Reported incident of public nuisance in Bengaluru area.
+Gambling,13.028088,77.502567,1,Reported incident of gambling in Bengaluru area.
+Cheating,13.028784,77.611722,4,Reported incident of cheating in Bengaluru area.
+Cyber Crime,13.029054,77.574083,4,Reported incident of cyber crime in Bengaluru area.
+Robbery,13.029235,77.567175,8,Reported incident of robbery in Bengaluru area.
+Robbery,13.029725,77.657216,7,Reported incident of robbery in Bengaluru area.
+Theft,13.030857,77.479829,5,Reported incident of theft in Bengaluru area.
+Cheating,13.031208,77.693103,3,Reported incident of cheating in Bengaluru area.
+Burglary,13.031355,77.711729,8,Reported incident of burglary in Bengaluru area.
+Burglary,13.032357,77.758613,8,Reported incident of burglary in Bengaluru area.
+Assault,13.032395,77.545489,5,Reported incident of assault in Bengaluru area.
+Cheating,13.032686,77.769996,4,Reported incident of cheating in Bengaluru area.
+Rape,13.032703,77.514951,10,Reported incident of rape in Bengaluru area.
+Theft,13.032834,77.59575,6,Reported incident of theft in Bengaluru area.
+Theft,13.032925,77.500011,4,Reported incident of theft in Bengaluru area.
+Assault,13.033427,77.544674,6,Reported incident of assault in Bengaluru area.
+Rape,13.033458,77.626029,9,Reported incident of rape in Bengaluru area.
+Cheating,13.033842,77.630233,3,Reported incident of cheating in Bengaluru area.
+Cyber Crime,13.034044,77.579926,5,Reported incident of cyber crime in Bengaluru area.
+Gambling,13.034979,77.530789,1,Reported incident of gambling in Bengaluru area.
+Assault,13.034991,77.693676,6,Reported incident of assault in Bengaluru area.
+Public Nuisance,13.035848,77.587907,1,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,13.036118,77.705301,1,Reported incident of public nuisance in Bengaluru area.
+Dacoity,13.036581,77.626833,10,Reported incident of dacoity in Bengaluru area.
+Dacoity,13.036631,77.618373,8,Reported incident of dacoity in Bengaluru area.
+Murder,13.036716,77.541574,10,Reported incident of murder in Bengaluru area.
+Theft,13.037086,77.491442,4,Reported incident of theft in Bengaluru area.
+Theft,13.037286,77.496963,5,Reported incident of theft in Bengaluru area.
+Cyber Crime,13.037436,77.640506,5,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,13.037573,77.69492,9,Reported incident of kidnapping in Bengaluru area.
+Gambling,13.037757,77.608939,1,Reported incident of gambling in Bengaluru area.
+Burglary,13.037878,77.614175,6,Reported incident of burglary in Bengaluru area.
+Assault,13.038649,77.46568,7,Reported incident of assault in Bengaluru area.
+Cyber Crime,13.038919,77.753709,3,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,13.039056,77.736792,3,Reported incident of cyber crime in Bengaluru area.
+Gambling,13.039234,77.62716,1,Reported incident of gambling in Bengaluru area.
+Gambling,13.039246,77.5483,2,Reported incident of gambling in Bengaluru area.
+Robbery,13.039559,77.630092,9,Reported incident of robbery in Bengaluru area.
+Cyber Crime,13.039921,77.633598,4,Reported incident of cyber crime in Bengaluru area.
+Cyber Crime,13.04012,77.544382,4,Reported incident of cyber crime in Bengaluru area.
+Robbery,13.040145,77.682625,9,Reported incident of robbery in Bengaluru area.
+Cheating,13.040193,77.629238,4,Reported incident of cheating in Bengaluru area.
+Burglary,13.040895,77.598676,8,Reported incident of burglary in Bengaluru area.
+Theft,13.041996,77.642793,4,Reported incident of theft in Bengaluru area.
+Robbery,13.04243,77.49636,9,Reported incident of robbery in Bengaluru area.
+Murder,13.04269,77.475102,9,Reported incident of murder in Bengaluru area.
+Murder,13.042703,77.77508,10,Reported incident of murder in Bengaluru area.
+Kidnapping,13.042742,77.513892,7,Reported incident of kidnapping in Bengaluru area.
+Cheating,13.04332,77.757663,4,Reported incident of cheating in Bengaluru area.
+Rape,13.043647,77.519011,10,Reported incident of rape in Bengaluru area.
+Rape,13.044119,77.472794,10,Reported incident of rape in Bengaluru area.
+Robbery,13.044156,77.661766,9,Reported incident of robbery in Bengaluru area.
+Dacoity,13.044961,77.590507,8,Reported incident of dacoity in Bengaluru area.
+Assault,13.045873,77.496154,7,Reported incident of assault in Bengaluru area.
+Dacoity,13.046195,77.628372,9,Reported incident of dacoity in Bengaluru area.
+Theft,13.046597,77.536246,6,Reported incident of theft in Bengaluru area.
+Cheating,13.046895,77.704902,2,Reported incident of cheating in Bengaluru area.
+Robbery,13.047101,77.470981,7,Reported incident of robbery in Bengaluru area.
+Assault,13.047797,77.611225,5,Reported incident of assault in Bengaluru area.
+Assault,13.048368,77.776305,7,Reported incident of assault in Bengaluru area.
+Public Nuisance,13.049029,77.691084,3,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,13.049049,77.673447,2,Reported incident of public nuisance in Bengaluru area.
+Gambling,13.049063,77.639649,2,Reported incident of gambling in Bengaluru area.
+Kidnapping,13.049217,77.759956,9,Reported incident of kidnapping in Bengaluru area.
+Cheating,13.049698,77.748915,2,Reported incident of cheating in Bengaluru area.
+Burglary,13.049721,77.487612,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,13.050462,77.501775,3,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,13.050526,77.587525,1,Reported incident of public nuisance in Bengaluru area.
+Kidnapping,13.05065,77.751057,7,Reported incident of kidnapping in Bengaluru area.
+Robbery,13.051137,77.472351,9,Reported incident of robbery in Bengaluru area.
+Theft,13.051537,77.738702,5,Reported incident of theft in Bengaluru area.
+Public Nuisance,13.051977,77.734081,3,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,13.052038,77.537972,2,Reported incident of public nuisance in Bengaluru area.
+Gambling,13.052494,77.689418,1,Reported incident of gambling in Bengaluru area.
+Burglary,13.052739,77.65822,7,Reported incident of burglary in Bengaluru area.
+Burglary,13.052809,77.685996,7,Reported incident of burglary in Bengaluru area.
+Public Nuisance,13.052835,77.626037,2,Reported incident of public nuisance in Bengaluru area.
+Kidnapping,13.052943,77.774787,7,Reported incident of kidnapping in Bengaluru area.
+Rape,13.053661,77.464628,10,Reported incident of rape in Bengaluru area.
+Kidnapping,13.053667,77.683701,8,Reported incident of kidnapping in Bengaluru area.
+Rape,13.054028,77.508225,9,Reported incident of rape in Bengaluru area.
+Rape,13.054211,77.76913,9,Reported incident of rape in Bengaluru area.
+Dacoity,13.054504,77.681703,10,Reported incident of dacoity in Bengaluru area.
+Rape,13.055281,77.554602,10,Reported incident of rape in Bengaluru area.
+Kidnapping,13.055415,77.514344,9,Reported incident of kidnapping in Bengaluru area.
+Kidnapping,13.055907,77.71566,9,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,13.056069,77.645159,1,Reported incident of public nuisance in Bengaluru area.
+Robbery,13.056203,77.536696,9,Reported incident of robbery in Bengaluru area.
+Cheating,13.056447,77.546914,3,Reported incident of cheating in Bengaluru area.
+Murder,13.057493,77.584045,10,Reported incident of murder in Bengaluru area.
+Theft,13.058226,77.518748,6,Reported incident of theft in Bengaluru area.
+Rape,13.058458,77.52873,9,Reported incident of rape in Bengaluru area.
+Theft,13.058919,77.739626,4,Reported incident of theft in Bengaluru area.
+Murder,13.05898,77.510615,10,Reported incident of murder in Bengaluru area.
+Dacoity,13.059251,77.680769,9,Reported incident of dacoity in Bengaluru area.
+Cheating,13.059405,77.662978,3,Reported incident of cheating in Bengaluru area.
+Robbery,13.059925,77.52246,8,Reported incident of robbery in Bengaluru area.
+Gambling,13.060249,77.476473,2,Reported incident of gambling in Bengaluru area.
+Murder,13.060502,77.507698,9,Reported incident of murder in Bengaluru area.
+Burglary,13.061063,77.506545,7,Reported incident of burglary in Bengaluru area.
+Gambling,13.061092,77.72493,1,Reported incident of gambling in Bengaluru area.
+Cheating,13.061127,77.701906,2,Reported incident of cheating in Bengaluru area.
+Robbery,13.062021,77.577031,8,Reported incident of robbery in Bengaluru area.
+Burglary,13.062064,77.633338,7,Reported incident of burglary in Bengaluru area.
+Assault,13.062107,77.704668,6,Reported incident of assault in Bengaluru area.
+Cyber Crime,13.062231,77.64544,4,Reported incident of cyber crime in Bengaluru area.
+Assault,13.062463,77.504962,6,Reported incident of assault in Bengaluru area.
+Cyber Crime,13.062673,77.531642,4,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,13.063006,77.54075,9,Reported incident of kidnapping in Bengaluru area.
+Assault,13.063465,77.58641,5,Reported incident of assault in Bengaluru area.
+Theft,13.063838,77.461699,6,Reported incident of theft in Bengaluru area.
+Public Nuisance,13.064089,77.546656,3,Reported incident of public nuisance in Bengaluru area.
+Burglary,13.064106,77.544714,8,Reported incident of burglary in Bengaluru area.
+Cyber Crime,13.064223,77.620253,5,Reported incident of cyber crime in Bengaluru area.
+Dacoity,13.064562,77.485264,8,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,13.064647,77.634827,1,Reported incident of public nuisance in Bengaluru area.
+Gambling,13.065204,77.715866,1,Reported incident of gambling in Bengaluru area.
+Robbery,13.065656,77.530164,8,Reported incident of robbery in Bengaluru area.
+Kidnapping,13.065847,77.672917,9,Reported incident of kidnapping in Bengaluru area.
+Assault,13.065902,77.539413,5,Reported incident of assault in Bengaluru area.
+Murder,13.066008,77.554517,10,Reported incident of murder in Bengaluru area.
+Kidnapping,13.066649,77.609077,8,Reported incident of kidnapping in Bengaluru area.
+Cyber Crime,13.067055,77.669092,5,Reported incident of cyber crime in Bengaluru area.
+Theft,13.067171,77.516716,6,Reported incident of theft in Bengaluru area.
+Kidnapping,13.067291,77.675131,9,Reported incident of kidnapping in Bengaluru area.
+Assault,13.068023,77.460646,7,Reported incident of assault in Bengaluru area.
+Gambling,13.068055,77.510374,1,Reported incident of gambling in Bengaluru area.
+Gambling,13.068751,77.623089,2,Reported incident of gambling in Bengaluru area.
+Rape,13.069174,77.525507,9,Reported incident of rape in Bengaluru area.
+Cyber Crime,13.069634,77.545159,5,Reported incident of cyber crime in Bengaluru area.
+Cheating,13.069731,77.660515,4,Reported incident of cheating in Bengaluru area.
+Burglary,13.069903,77.619155,6,Reported incident of burglary in Bengaluru area.
+Kidnapping,13.069906,77.539964,7,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,13.06993,77.554457,2,Reported incident of public nuisance in Bengaluru area.
+Theft,13.070211,77.719265,4,Reported incident of theft in Bengaluru area.
+Burglary,13.07042,77.508577,8,Reported incident of burglary in Bengaluru area.
+Dacoity,13.070863,77.722868,8,Reported incident of dacoity in Bengaluru area.
+Cyber Crime,13.071052,77.462573,3,Reported incident of cyber crime in Bengaluru area.
+Public Nuisance,13.071146,77.765409,1,Reported incident of public nuisance in Bengaluru area.
+Kidnapping,13.071163,77.626672,9,Reported incident of kidnapping in Bengaluru area.
+Murder,13.071226,77.520193,10,Reported incident of murder in Bengaluru area.
+Assault,13.071406,77.500713,7,Reported incident of assault in Bengaluru area.
+Kidnapping,13.07219,77.617596,9,Reported incident of kidnapping in Bengaluru area.
+Gambling,13.072831,77.731859,1,Reported incident of gambling in Bengaluru area.
+Kidnapping,13.073887,77.640441,9,Reported incident of kidnapping in Bengaluru area.
+Kidnapping,13.074234,77.61622,9,Reported incident of kidnapping in Bengaluru area.
+Cheating,13.074415,77.641147,2,Reported incident of cheating in Bengaluru area.
+Burglary,13.074533,77.578652,8,Reported incident of burglary in Bengaluru area.
+Murder,13.074823,77.494794,10,Reported incident of murder in Bengaluru area.
+Burglary,13.074874,77.682167,6,Reported incident of burglary in Bengaluru area.
+Kidnapping,13.074939,77.57245,9,Reported incident of kidnapping in Bengaluru area.
+Murder,13.075619,77.646183,9,Reported incident of murder in Bengaluru area.
+Burglary,13.075665,77.46598,8,Reported incident of burglary in Bengaluru area.
+Burglary,13.075683,77.749965,6,Reported incident of burglary in Bengaluru area.
+Robbery,13.076293,77.581229,9,Reported incident of robbery in Bengaluru area.
+Dacoity,13.076565,77.703749,10,Reported incident of dacoity in Bengaluru area.
+Cyber Crime,13.077127,77.750164,4,Reported incident of cyber crime in Bengaluru area.
+Gambling,13.077396,77.65521,1,Reported incident of gambling in Bengaluru area.
+Cheating,13.077654,77.731777,4,Reported incident of cheating in Bengaluru area.
+Cyber Crime,13.07769,77.7329,5,Reported incident of cyber crime in Bengaluru area.
+Dacoity,13.077935,77.5317,10,Reported incident of dacoity in Bengaluru area.
+Kidnapping,13.078277,77.557507,7,Reported incident of kidnapping in Bengaluru area.
+Assault,13.078512,77.734109,6,Reported incident of assault in Bengaluru area.
+Public Nuisance,13.078704,77.487623,3,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,13.078795,77.588351,3,Reported incident of public nuisance in Bengaluru area.
+Kidnapping,13.078816,77.671164,9,Reported incident of kidnapping in Bengaluru area.
+Burglary,13.078842,77.485803,7,Reported incident of burglary in Bengaluru area.
+Assault,13.080128,77.707914,7,Reported incident of assault in Bengaluru area.
+Burglary,13.080536,77.684372,6,Reported incident of burglary in Bengaluru area.
+Burglary,13.081896,77.471932,8,Reported incident of burglary in Bengaluru area.
+Gambling,13.082132,77.524363,1,Reported incident of gambling in Bengaluru area.
+Murder,13.08266,77.622251,10,Reported incident of murder in Bengaluru area.
+Cheating,13.083233,77.552483,3,Reported incident of cheating in Bengaluru area.
+Cheating,13.084467,77.597739,4,Reported incident of cheating in Bengaluru area.
+Rape,13.084528,77.531639,9,Reported incident of rape in Bengaluru area.
+Burglary,13.084799,77.671096,6,Reported incident of burglary in Bengaluru area.
+Theft,13.085006,77.551868,6,Reported incident of theft in Bengaluru area.
+Assault,13.085513,77.533884,6,Reported incident of assault in Bengaluru area.
+Rape,13.085674,77.648101,9,Reported incident of rape in Bengaluru area.
+Theft,13.085953,77.689635,6,Reported incident of theft in Bengaluru area.
+Rape,13.086851,77.769444,9,Reported incident of rape in Bengaluru area.
+Robbery,13.087019,77.55682,8,Reported incident of robbery in Bengaluru area.
+Theft,13.087369,77.72187,5,Reported incident of theft in Bengaluru area.
+Rape,13.087389,77.53113,10,Reported incident of rape in Bengaluru area.
+Theft,13.087517,77.602223,5,Reported incident of theft in Bengaluru area.
+Dacoity,13.088638,77.776681,9,Reported incident of dacoity in Bengaluru area.
+Cheating,13.088901,77.75403,4,Reported incident of cheating in Bengaluru area.
+Cheating,13.088954,77.571731,4,Reported incident of cheating in Bengaluru area.
+Robbery,13.089885,77.625536,8,Reported incident of robbery in Bengaluru area.
+Gambling,13.089954,77.519766,1,Reported incident of gambling in Bengaluru area.
+Murder,13.090051,77.523654,10,Reported incident of murder in Bengaluru area.
+Robbery,13.09014,77.561051,9,Reported incident of robbery in Bengaluru area.
+Dacoity,13.090442,77.710618,8,Reported incident of dacoity in Bengaluru area.
+Assault,13.090805,77.590046,7,Reported incident of assault in Bengaluru area.
+Murder,13.090822,77.572223,10,Reported incident of murder in Bengaluru area.
+Burglary,13.090897,77.497554,6,Reported incident of burglary in Bengaluru area.
+Public Nuisance,13.091492,77.564166,3,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,13.091871,77.51368,2,Reported incident of public nuisance in Bengaluru area.
+Kidnapping,13.092166,77.747673,9,Reported incident of kidnapping in Bengaluru area.
+Robbery,13.092468,77.663005,9,Reported incident of robbery in Bengaluru area.
+Theft,13.092659,77.56768,4,Reported incident of theft in Bengaluru area.
+Assault,13.093089,77.620514,7,Reported incident of assault in Bengaluru area.
+Burglary,13.095126,77.511693,7,Reported incident of burglary in Bengaluru area.
+Theft,13.095638,77.474228,6,Reported incident of theft in Bengaluru area.
+Rape,13.095683,77.770868,10,Reported incident of rape in Bengaluru area.
+Robbery,13.095705,77.54943,9,Reported incident of robbery in Bengaluru area.
+Dacoity,13.09588,77.707182,9,Reported incident of dacoity in Bengaluru area.
+Burglary,13.097352,77.47661,7,Reported incident of burglary in Bengaluru area.
+Cyber Crime,13.097507,77.715605,3,Reported incident of cyber crime in Bengaluru area.
+Gambling,13.097774,77.530988,1,Reported incident of gambling in Bengaluru area.
+Public Nuisance,13.097888,77.476335,2,Reported incident of public nuisance in Bengaluru area.
+Burglary,13.098069,77.5018,6,Reported incident of burglary in Bengaluru area.
+Dacoity,13.098098,77.562314,8,Reported incident of dacoity in Bengaluru area.
+Cyber Crime,13.098385,77.762237,4,Reported incident of cyber crime in Bengaluru area.
+Burglary,13.098388,77.72604,8,Reported incident of burglary in Bengaluru area.
+Kidnapping,13.098716,77.718657,8,Reported incident of kidnapping in Bengaluru area.
+Burglary,13.099192,77.572605,8,Reported incident of burglary in Bengaluru area.
+Murder,13.09976,77.678359,10,Reported incident of murder in Bengaluru area.
+Cyber Crime,13.099762,77.673505,4,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,13.099878,77.695444,7,Reported incident of kidnapping in Bengaluru area.
+Theft,13.100123,77.554156,6,Reported incident of theft in Bengaluru area.
+Murder,13.100225,77.612113,10,Reported incident of murder in Bengaluru area.
+Rape,13.10051,77.642107,10,Reported incident of rape in Bengaluru area.
+Theft,13.101492,77.767321,4,Reported incident of theft in Bengaluru area.
+Robbery,13.1015,77.595801,7,Reported incident of robbery in Bengaluru area.
+Assault,13.101898,77.762693,6,Reported incident of assault in Bengaluru area.
+Theft,13.10241,77.568824,6,Reported incident of theft in Bengaluru area.
+Dacoity,13.103157,77.500157,9,Reported incident of dacoity in Bengaluru area.
+Cheating,13.103719,77.469519,2,Reported incident of cheating in Bengaluru area.
+Kidnapping,13.104227,77.489567,9,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,13.104339,77.64789,1,Reported incident of public nuisance in Bengaluru area.
+Assault,13.10495,77.62946,7,Reported incident of assault in Bengaluru area.
+Public Nuisance,13.106536,77.625721,3,Reported incident of public nuisance in Bengaluru area.
+Cyber Crime,13.106547,77.714096,3,Reported incident of cyber crime in Bengaluru area.
+Robbery,13.107214,77.650418,8,Reported incident of robbery in Bengaluru area.
+Rape,13.107713,77.732091,10,Reported incident of rape in Bengaluru area.
+Burglary,13.108155,77.713576,7,Reported incident of burglary in Bengaluru area.
+Burglary,13.108175,77.498303,7,Reported incident of burglary in Bengaluru area.
+Public Nuisance,13.108572,77.504151,1,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,13.108705,77.746198,1,Reported incident of public nuisance in Bengaluru area.
+Dacoity,13.108783,77.480435,8,Reported incident of dacoity in Bengaluru area.
+Cheating,13.108835,77.75382,4,Reported incident of cheating in Bengaluru area.
+Murder,13.109065,77.529525,9,Reported incident of murder in Bengaluru area.
+Assault,13.10913,77.537127,7,Reported incident of assault in Bengaluru area.
+Assault,13.110097,77.544643,6,Reported incident of assault in Bengaluru area.
+Assault,13.110624,77.675486,5,Reported incident of assault in Bengaluru area.
+Cyber Crime,13.110897,77.502233,5,Reported incident of cyber crime in Bengaluru area.
+Kidnapping,13.111351,77.753147,7,Reported incident of kidnapping in Bengaluru area.
+Gambling,13.111459,77.652547,1,Reported incident of gambling in Bengaluru area.
+Assault,13.111844,77.516576,6,Reported incident of assault in Bengaluru area.
+Public Nuisance,13.112248,77.772804,1,Reported incident of public nuisance in Bengaluru area.
+Burglary,13.113066,77.509152,6,Reported incident of burglary in Bengaluru area.
+Rape,13.11307,77.75561,9,Reported incident of rape in Bengaluru area.
+Cyber Crime,13.113286,77.765057,5,Reported incident of cyber crime in Bengaluru area.
+Burglary,13.113842,77.524088,7,Reported incident of burglary in Bengaluru area.
+Assault,13.113957,77.679961,7,Reported incident of assault in Bengaluru area.
+Gambling,13.114174,77.490091,1,Reported incident of gambling in Bengaluru area.
+Robbery,13.114296,77.56845,8,Reported incident of robbery in Bengaluru area.
+Rape,13.11476,77.699479,9,Reported incident of rape in Bengaluru area.
+Theft,13.114911,77.577889,5,Reported incident of theft in Bengaluru area.
+Rape,13.115098,77.562173,10,Reported incident of rape in Bengaluru area.
+Cyber Crime,13.115339,77.680884,4,Reported incident of cyber crime in Bengaluru area.
+Gambling,13.115667,77.657371,1,Reported incident of gambling in Bengaluru area.
+Public Nuisance,13.116222,77.571772,2,Reported incident of public nuisance in Bengaluru area.
+Kidnapping,13.116352,77.751722,8,Reported incident of kidnapping in Bengaluru area.
+Dacoity,13.116901,77.586576,9,Reported incident of dacoity in Bengaluru area.
+Kidnapping,13.117091,77.521474,9,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,13.117258,77.468758,1,Reported incident of public nuisance in Bengaluru area.
+Gambling,13.117398,77.59795,2,Reported incident of gambling in Bengaluru area.
+Cyber Crime,13.117881,77.634393,3,Reported incident of cyber crime in Bengaluru area.
+Murder,13.117932,77.76597,10,Reported incident of murder in Bengaluru area.
+Burglary,13.118016,77.635528,6,Reported incident of burglary in Bengaluru area.
+Kidnapping,13.118124,77.680091,8,Reported incident of kidnapping in Bengaluru area.
+Rape,13.118211,77.689985,10,Reported incident of rape in Bengaluru area.
+Gambling,13.119212,77.7676,2,Reported incident of gambling in Bengaluru area.
+Murder,13.119578,77.622607,10,Reported incident of murder in Bengaluru area.
+Dacoity,13.119695,77.748372,9,Reported incident of dacoity in Bengaluru area.
+Public Nuisance,13.11983,77.702267,2,Reported incident of public nuisance in Bengaluru area.
+Theft,13.120319,77.579759,4,Reported incident of theft in Bengaluru area.
+Gambling,13.120519,77.505314,1,Reported incident of gambling in Bengaluru area.
+Rape,13.12056,77.538086,9,Reported incident of rape in Bengaluru area.
+Gambling,13.120779,77.5612,1,Reported incident of gambling in Bengaluru area.
+Burglary,13.120823,77.485948,6,Reported incident of burglary in Bengaluru area.
+Dacoity,13.120995,77.485106,10,Reported incident of dacoity in Bengaluru area.
+Assault,13.121252,77.671438,7,Reported incident of assault in Bengaluru area.
+Dacoity,13.121675,77.58732,8,Reported incident of dacoity in Bengaluru area.
+Burglary,13.122245,77.568743,7,Reported incident of burglary in Bengaluru area.
+Dacoity,13.12231,77.468726,8,Reported incident of dacoity in Bengaluru area.
+Gambling,13.122355,77.72028,2,Reported incident of gambling in Bengaluru area.
+Robbery,13.122921,77.728851,9,Reported incident of robbery in Bengaluru area.
+Cheating,13.122991,77.524796,3,Reported incident of cheating in Bengaluru area.
+Burglary,13.123958,77.508673,6,Reported incident of burglary in Bengaluru area.
+Cyber Crime,13.124022,77.661509,4,Reported incident of cyber crime in Bengaluru area.
+Murder,13.124334,77.605056,9,Reported incident of murder in Bengaluru area.
+Robbery,13.124754,77.721022,7,Reported incident of robbery in Bengaluru area.
+Cheating,13.124952,77.6025,2,Reported incident of cheating in Bengaluru area.
+Gambling,13.125472,77.674607,1,Reported incident of gambling in Bengaluru area.
+Robbery,13.125625,77.656992,7,Reported incident of robbery in Bengaluru area.
+Public Nuisance,13.126154,77.527026,1,Reported incident of public nuisance in Bengaluru area.
+Public Nuisance,13.126303,77.552786,2,Reported incident of public nuisance in Bengaluru area.
+Cheating,13.126341,77.655225,2,Reported incident of cheating in Bengaluru area.
+Public Nuisance,13.126576,77.5786,1,Reported incident of public nuisance in Bengaluru area.
+Robbery,13.126588,77.574413,7,Reported incident of robbery in Bengaluru area.
+Robbery,13.127263,77.509256,9,Reported incident of robbery in Bengaluru area.
+Rape,13.128098,77.654968,10,Reported incident of rape in Bengaluru area.
+Assault,13.128125,77.757944,7,Reported incident of assault in Bengaluru area.
+Gambling,13.128404,77.486735,1,Reported incident of gambling in Bengaluru area.
+Kidnapping,13.128458,77.69777,8,Reported incident of kidnapping in Bengaluru area.
+Public Nuisance,13.129802,77.514639,3,Reported incident of public nuisance in Bengaluru area.
+Gambling,13.129854,77.527043,1,Reported incident of gambling in Bengaluru area.
+Rape,13.130641,77.593824,10,Reported incident of rape in Bengaluru area.
+Dacoity,13.131108,77.694096,10,Reported incident of dacoity in Bengaluru area.
+Gambling,13.131663,77.501011,2,Reported incident of gambling in Bengaluru area.
+Theft,13.132075,77.687012,6,Reported incident of theft in Bengaluru area.
+Cyber Crime,13.13224,77.552102,3,Reported incident of cyber crime in Bengaluru area.
+Public Nuisance,13.132809,77.657439,3,Reported incident of public nuisance in Bengaluru area.
+Dacoity,13.133429,77.540182,8,Reported incident of dacoity in Bengaluru area.
+Rape,13.133586,77.512207,10,Reported incident of rape in Bengaluru area.
+Kidnapping,13.133666,77.546927,8,Reported incident of kidnapping in Bengaluru area.
+Murder,13.133766,77.719037,10,Reported incident of murder in Bengaluru area.
+Burglary,13.133819,77.757973,8,Reported incident of burglary in Bengaluru area.
+Robbery,13.133843,77.572344,7,Reported incident of robbery in Bengaluru area.
+Kidnapping,13.134009,77.53821,9,Reported incident of kidnapping in Bengaluru area.
+Kidnapping,13.134129,77.693825,9,Reported incident of kidnapping in Bengaluru area.
+Assault,13.134307,77.70667,7,Reported incident of assault in Bengaluru area.
+Murder,13.134432,77.704006,9,Reported incident of murder in Bengaluru area.
+Burglary,13.134482,77.715684,7,Reported incident of burglary in Bengaluru area.
+Gambling,13.134901,77.652981,1,Reported incident of gambling in Bengaluru area.
+Assault,13.135109,77.670552,5,Reported incident of assault in Bengaluru area.
+Assault,13.135247,77.498548,7,Reported incident of assault in Bengaluru area.
+Public Nuisance,13.135313,77.51167,3,Reported incident of public nuisance in Bengaluru area.
+Rape,13.136502,77.670434,10,Reported incident of rape in Bengaluru area.
+Burglary,13.137744,77.681739,8,Reported incident of burglary in Bengaluru area.
+Dacoity,13.137982,77.541902,10,Reported incident of dacoity in Bengaluru area.
+Theft,13.138291,77.701768,6,Reported incident of theft in Bengaluru area.
+Cheating,13.138544,77.631574,3,Reported incident of cheating in Bengaluru area.
+Theft,13.138737,77.751427,4,Reported incident of theft in Bengaluru area.
+Rape,13.139389,77.716378,10,Reported incident of rape in Bengaluru area.
+Assault,13.139666,77.770397,7,Reported incident of assault in Bengaluru area.
+Burglary,13.139969,77.768281,6,Reported incident of burglary in Bengaluru area.

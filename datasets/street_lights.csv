@@ -1,0 +1,484 @@
+lat,lng,status,zone
+12.981963,77.569575,working,Majestic
+12.978718,77.580292,working,Majestic
+12.991907,77.577712,faulty,Majestic
+12.98578,77.617272,faulty,Majestic
+12.945496,77.589993,working,Majestic
+12.982857,77.592628,working,Majestic
+12.996309,77.617352,working,Majestic
+12.988394,77.617857,faulty,Majestic
+12.982865,77.595213,faulty,Majestic
+12.974044,77.594974,faulty,Majestic
+13.000542,77.584412,working,Majestic
+12.996114,77.567123,working,Majestic
+12.949569,77.604615,dim,Majestic
+12.996573,77.620106,working,Majestic
+12.982616,77.591636,dim,Majestic
+12.951485,77.601491,faulty,Majestic
+12.998693,77.607514,faulty,Majestic
+12.946969,77.591512,working,Majestic
+12.979219,77.571843,working,Majestic
+12.956706,77.603215,working,Majestic
+12.962766,77.620336,working,Majestic
+12.999124,77.603679,dim,Majestic
+12.978734,77.571291,working,Majestic
+12.975892,77.596389,faulty,Majestic
+12.995347,77.599651,working,Majestic
+12.950523,77.574352,dim,Majestic
+12.964595,77.615953,dim,Majestic
+12.995332,77.600579,working,Majestic
+12.97188,77.616586,working,Majestic
+12.923379,77.615463,faulty,Whitefield
+12.913253,77.621755,working,Whitefield
+12.959214,77.602347,working,Whitefield
+12.910482,77.646514,working,Whitefield
+12.919481,77.62784,working,Whitefield
+12.939341,77.607059,working,Whitefield
+12.960521,77.632513,working,Whitefield
+12.914926,77.61435,dim,Whitefield
+12.955233,77.640771,working,Whitefield
+12.911044,77.64054,faulty,Whitefield
+12.959425,77.627893,working,Whitefield
+12.909895,77.59598,dim,Whitefield
+12.942616,77.600297,working,Whitefield
+12.911526,77.61589,working,Whitefield
+12.957149,77.62195,dim,Whitefield
+12.928901,77.65211,faulty,Whitefield
+12.913966,77.648931,working,Whitefield
+12.91222,77.646005,working,Whitefield
+12.925477,77.641867,working,Whitefield
+12.93014,77.643478,working,Whitefield
+12.947595,77.649857,working,Whitefield
+12.928352,77.615062,faulty,Whitefield
+12.924584,77.614272,dim,Whitefield
+12.941179,77.625933,working,Whitefield
+12.959532,77.623012,working,Whitefield
+12.928178,77.649484,dim,Whitefield
+12.962672,77.609589,working,Whitefield
+12.957632,77.628446,working,Marathahalli
+13.007872,77.642539,working,Marathahalli
+12.987927,77.620113,working,Marathahalli
+12.955808,77.611814,faulty,Marathahalli
+12.987582,77.660632,dim,Marathahalli
+12.969704,77.640338,working,Marathahalli
+12.979881,77.664087,working,Marathahalli
+12.95516,77.640325,working,Marathahalli
+12.9905,77.620464,working,Marathahalli
+12.957175,77.615965,working,Marathahalli
+13.00701,77.638378,dim,Marathahalli
+12.973568,77.63182,working,Marathahalli
+12.980153,77.640743,working,Marathahalli
+12.980588,77.614389,dim,Marathahalli
+12.971275,77.612807,faulty,Marathahalli
+12.956328,77.631865,faulty,Marathahalli
+12.991602,77.647067,working,Marathahalli
+12.963298,77.633545,working,Marathahalli
+12.956418,77.665348,working,Marathahalli
+13.004796,77.668504,working,Marathahalli
+12.986656,77.654085,working,Marathahalli
+13.006553,77.639073,working,Marathahalli
+12.997547,77.655789,working,Marathahalli
+12.953389,77.643966,working,Marathahalli
+12.990456,77.65174,working,Marathahalli
+12.956594,77.66175,working,Marathahalli
+12.998218,77.656005,dim,Marathahalli
+12.971383,77.661469,working,Marathahalli
+12.965859,77.646363,faulty,Marathahalli
+12.985897,77.6446,dim,Marathahalli
+12.988789,77.655829,dim,Marathahalli
+12.976419,77.654245,dim,Marathahalli
+12.983939,77.628602,working,Marathahalli
+12.979571,77.637728,working,Marathahalli
+13.007085,77.638709,faulty,Marathahalli
+12.815206,77.68528,working,Bommanahalli
+12.846639,77.679116,working,Bommanahalli
+12.807211,77.673765,working,Bommanahalli
+12.853913,77.670091,dim,Bommanahalli
+12.813122,77.67686,working,Bommanahalli
+12.82148,77.675624,working,Bommanahalli
+12.858865,77.688264,working,Bommanahalli
+12.812876,77.672396,working,Bommanahalli
+12.812706,77.676679,working,Bommanahalli
+12.822858,77.683598,working,Bommanahalli
+12.807494,77.680389,faulty,Bommanahalli
+12.805927,77.630493,working,Bommanahalli
+12.850559,77.657481,dim,Bommanahalli
+12.851393,77.653308,working,Bommanahalli
+12.814676,77.645692,working,Bommanahalli
+12.811523,77.632585,dim,Bommanahalli
+12.830896,77.684955,working,Bommanahalli
+12.832722,77.678887,dim,Bommanahalli
+12.822149,77.661412,dim,Bommanahalli
+12.848966,77.642553,working,Bommanahalli
+12.81247,77.635991,faulty,Bommanahalli
+12.845995,77.656015,faulty,Bommanahalli
+12.861941,77.633459,working,Bommanahalli
+12.851786,77.656509,working,Bommanahalli
+12.825954,77.677489,working,Bommanahalli
+12.8551,77.685114,working,Bommanahalli
+12.845931,77.653242,working,Bommanahalli
+12.804745,77.64735,working,Bommanahalli
+12.833526,77.632583,faulty,Bommanahalli
+12.860046,77.679227,working,Bommanahalli
+12.995258,77.585097,working,Hebbal
+13.033231,77.614633,working,Hebbal
+13.004656,77.580535,working,Hebbal
+12.977392,77.608705,working,Hebbal
+13.022252,77.625415,faulty,Hebbal
+13.022686,77.595491,working,Hebbal
+13.003604,77.587056,working,Hebbal
+12.995073,77.566537,working,Hebbal
+13.022167,77.577529,faulty,Hebbal
+13.014713,77.593439,working,Hebbal
+12.987862,77.600845,working,Hebbal
+12.992694,77.572304,dim,Hebbal
+13.001,77.614281,faulty,Hebbal
+13.003685,77.614381,working,Hebbal
+13.022273,77.586826,working,Hebbal
+13.010032,77.621387,working,Hebbal
+12.978576,77.585854,working,Hebbal
+12.997815,77.570793,dim,Hebbal
+13.016068,77.581032,working,Hebbal
+12.977997,77.613109,working,Hebbal
+13.030482,77.60951,working,Hebbal
+13.010957,77.624306,working,Hebbal
+12.987146,77.57331,faulty,Hebbal
+13.033792,77.57891,faulty,Hebbal
+12.982268,77.624346,working,Hebbal
+13.007136,77.602738,working,Hebbal
+12.998159,77.571923,working,Hebbal
+12.984785,77.595292,faulty,Hebbal
+13.026455,77.601859,working,Hebbal
+13.02976,77.619967,working,Hebbal
+12.995251,77.568564,dim,Hebbal
+13.03153,77.611778,faulty,Hebbal
+13.005482,77.593504,working,Hebbal
+12.99223,77.595156,working,Hebbal
+12.981006,77.580419,working,Hebbal
+13.018379,77.570077,working,Hebbal
+12.989173,77.583573,working,Hebbal
+13.022643,77.608271,working,Hebbal
+12.890169,77.613177,working,Jayanagar
+12.871211,77.625201,working,Jayanagar
+12.879698,77.570263,faulty,Jayanagar
+12.872729,77.628037,working,Jayanagar
+12.885356,77.626936,dim,Jayanagar
+12.912703,77.575515,faulty,Jayanagar
+12.912663,77.583802,working,Jayanagar
+12.926784,77.62338,faulty,Jayanagar
+12.924921,77.581257,working,Jayanagar
+12.896713,77.594436,working,Jayanagar
+12.927644,77.625455,working,Jayanagar
+12.89251,77.62041,working,Jayanagar
+12.907469,77.609894,working,Jayanagar
+12.92834,77.59228,faulty,Jayanagar
+12.876582,77.601221,working,Jayanagar
+12.918125,77.608764,working,Jayanagar
+12.916417,77.612248,dim,Jayanagar
+12.908405,77.622176,faulty,Jayanagar
+12.882257,77.61866,faulty,Jayanagar
+12.909568,77.577176,working,Jayanagar
+12.928455,77.614885,dim,Jayanagar
+12.90744,77.594313,faulty,Jayanagar
+12.91955,77.611838,working,Jayanagar
+12.907074,77.624682,working,Jayanagar
+12.888639,77.600016,dim,Jayanagar
+12.981218,77.576864,dim,Rajajinagar
+12.937504,77.588315,dim,Rajajinagar
+12.937878,77.593399,faulty,Rajajinagar
+12.981783,77.575324,working,Rajajinagar
+12.955257,77.554558,working,Rajajinagar
+12.980573,77.554448,faulty,Rajajinagar
+12.953714,77.565944,faulty,Rajajinagar
+12.976082,77.567272,working,Rajajinagar
+12.942795,77.551806,dim,Rajajinagar
+12.93795,77.540318,faulty,Rajajinagar
+12.980909,77.577663,working,Rajajinagar
+12.943621,77.560103,working,Rajajinagar
+12.977984,77.562767,dim,Rajajinagar
+12.972405,77.543207,working,Rajajinagar
+12.979491,77.546259,dim,Rajajinagar
+12.969198,77.54733,working,Rajajinagar
+12.977827,77.564829,dim,Rajajinagar
+12.964791,77.567266,working,Rajajinagar
+12.935448,77.55911,working,Rajajinagar
+12.969349,77.544995,dim,Rajajinagar
+12.931374,77.572108,dim,Rajajinagar
+12.939295,77.572186,working,Rajajinagar
+12.980201,77.580489,working,Rajajinagar
+12.98319,77.552694,dim,Rajajinagar
+12.973278,77.574266,working,Rajajinagar
+12.950349,77.550853,working,Rajajinagar
+12.937106,77.540943,working,Rajajinagar
+12.965109,77.577381,working,Rajajinagar
+12.962522,77.585821,working,Rajajinagar
+12.977938,77.574643,working,Rajajinagar
+12.940919,77.599562,working,Rajajinagar
+12.986683,77.579191,working,Rajajinagar
+12.943923,77.544519,faulty,Rajajinagar
+12.94381,77.556545,faulty,Rajajinagar
+12.951777,77.58517,dim,Rajajinagar
+12.962416,77.543988,faulty,Rajajinagar
+12.956379,77.579702,faulty,Rajajinagar
+12.977573,77.59987,working,Rajajinagar
+12.838454,77.624233,dim,BTM Layout
+12.85187,77.596282,faulty,BTM Layout
+12.859982,77.59257,faulty,BTM Layout
+12.828477,77.589873,working,BTM Layout
+12.819616,77.612305,dim,BTM Layout
+12.829921,77.612741,dim,BTM Layout
+12.819919,77.613645,faulty,BTM Layout
+12.821599,77.58578,working,BTM Layout
+12.871748,77.616167,faulty,BTM Layout
+12.839687,77.590787,working,BTM Layout
+12.827303,77.610554,working,BTM Layout
+12.840646,77.606533,working,BTM Layout
+12.832555,77.617262,working,BTM Layout
+12.825146,77.632885,working,BTM Layout
+12.833785,77.606824,working,BTM Layout
+12.870493,77.585802,working,BTM Layout
+12.814948,77.62969,working,BTM Layout
+12.823107,77.637156,faulty,BTM Layout
+12.817161,77.593403,dim,BTM Layout
+12.825006,77.603414,dim,BTM Layout
+12.834078,77.609767,dim,BTM Layout
+12.835843,77.608535,faulty,BTM Layout
+12.955489,77.626336,working,HAL
+12.946733,77.636719,working,HAL
+12.927612,77.646319,working,HAL
+12.920555,77.633624,working,HAL
+12.932244,77.655136,working,HAL
+12.928369,77.642326,working,HAL
+12.901262,77.625237,working,HAL
+12.915967,77.624953,working,HAL
+12.941597,77.629775,dim,HAL
+12.934877,77.63498,dim,HAL
+12.9326,77.646948,working,HAL
+12.903057,77.60001,working,HAL
+12.911353,77.603803,working,HAL
+12.940878,77.628748,working,HAL
+12.950415,77.607975,working,HAL
+12.908006,77.644507,working,HAL
+12.938211,77.652821,working,HAL
+12.925238,77.602246,working,HAL
+12.934293,77.637122,faulty,HAL
+12.918327,77.629527,working,HAL
+12.94587,77.613572,working,HAL
+12.928563,77.627374,working,HAL
+12.956849,77.610697,faulty,HAL
+12.956711,77.639254,faulty,HAL
+12.949802,77.627184,faulty,HAL
+13.058632,77.575121,dim,Yelahanka
+13.054796,77.625072,working,Yelahanka
+13.040498,77.604658,dim,Yelahanka
+13.036111,77.614861,working,Yelahanka
+13.02483,77.609548,working,Yelahanka
+13.024263,77.60903,working,Yelahanka
+13.055222,77.574186,working,Yelahanka
+13.048901,77.620568,working,Yelahanka
+13.029161,77.583881,working,Yelahanka
+13.064699,77.582602,working,Yelahanka
+13.017716,77.608917,working,Yelahanka
+13.030416,77.602339,working,Yelahanka
+13.04339,77.607143,dim,Yelahanka
+13.026824,77.626379,faulty,Yelahanka
+13.037262,77.581618,dim,Yelahanka
+13.061874,77.602421,working,Yelahanka
+13.011758,77.608161,working,Yelahanka
+13.034626,77.604464,dim,Yelahanka
+13.056889,77.617301,working,Yelahanka
+13.045537,77.584101,working,Yelahanka
+12.979784,77.605266,dim,Indiranagar
+12.957171,77.633955,working,Indiranagar
+12.931881,77.62112,working,Indiranagar
+12.935393,77.633186,dim,Indiranagar
+12.962169,77.619297,working,Indiranagar
+12.971742,77.607277,dim,Indiranagar
+12.96504,77.608658,working,Indiranagar
+12.944752,77.620362,working,Indiranagar
+12.965981,77.621028,dim,Indiranagar
+12.984005,77.603313,working,Indiranagar
+12.935453,77.607416,faulty,Indiranagar
+12.953431,77.592121,working,Indiranagar
+12.943557,77.579318,working,Indiranagar
+12.977759,77.602063,working,Indiranagar
+12.944117,77.632936,faulty,Indiranagar
+12.929061,77.581079,working,Indiranagar
+12.966651,77.627893,working,Indiranagar
+12.957743,77.602674,working,Indiranagar
+12.966925,77.599319,faulty,Indiranagar
+12.951465,77.602929,dim,Indiranagar
+12.973915,77.635768,working,Indiranagar
+12.968865,77.583543,faulty,Indiranagar
+12.958596,77.595046,faulty,Indiranagar
+12.951179,77.595758,working,Indiranagar
+12.955393,77.613337,working,Indiranagar
+12.9453,77.577006,faulty,Indiranagar
+12.968688,77.618983,working,Indiranagar
+12.98335,77.630219,working,Indiranagar
+12.979661,77.635421,working,Indiranagar
+12.960297,77.604977,dim,Indiranagar
+12.94594,77.606565,dim,Basavanagudi
+12.915181,77.585126,working,Basavanagudi
+12.922393,77.583727,working,Basavanagudi
+12.908742,77.565517,working,Basavanagudi
+12.896081,77.605974,working,Basavanagudi
+12.925779,77.555011,faulty,Basavanagudi
+12.893112,77.579593,dim,Basavanagudi
+12.897591,77.568042,working,Basavanagudi
+12.923826,77.564419,dim,Basavanagudi
+12.942041,77.578167,working,Basavanagudi
+12.91437,77.571218,working,Basavanagudi
+12.943597,77.563176,faulty,Basavanagudi
+12.924813,77.571047,working,Basavanagudi
+12.898129,77.553153,working,Basavanagudi
+12.948779,77.588677,faulty,Basavanagudi
+12.94108,77.58336,working,Basavanagudi
+12.893557,77.553048,faulty,Basavanagudi
+12.92142,77.569246,working,Basavanagudi
+12.905563,77.575788,working,Basavanagudi
+12.945647,77.595219,working,Basavanagudi
+12.909087,77.594065,dim,Basavanagudi
+12.934434,77.571594,faulty,Basavanagudi
+12.935417,77.556447,dim,Basavanagudi
+12.943608,77.60122,faulty,Basavanagudi
+12.939088,77.603683,faulty,Koramangala
+12.926101,77.649802,working,Koramangala
+12.947406,77.651639,working,Koramangala
+12.920744,77.607369,working,Koramangala
+12.906932,77.608129,working,Koramangala
+12.928779,77.645641,working,Koramangala
+12.92365,77.649317,working,Koramangala
+12.938457,77.598027,working,Koramangala
+12.908344,77.620095,dim,Koramangala
+12.933936,77.627172,dim,Koramangala
+12.964568,77.619621,faulty,Koramangala
+12.912506,77.644583,working,Koramangala
+12.91359,77.597014,working,Koramangala
+12.937555,77.64951,working,Koramangala
+12.940436,77.60813,working,Koramangala
+12.961206,77.60263,working,Koramangala
+12.960819,77.64541,faulty,Koramangala
+12.96264,77.608843,working,Koramangala
+12.923045,77.65157,dim,Koramangala
+12.937427,77.656547,working,Koramangala
+12.956264,77.645454,working,Koramangala
+12.911095,77.644084,working,Koramangala
+12.932483,77.643137,working,Koramangala
+12.948237,77.651604,dim,Koramangala
+12.945726,77.601389,working,Koramangala
+12.944838,77.605542,working,Koramangala
+12.906555,77.633433,working,Koramangala
+12.929107,77.624228,faulty,Koramangala
+12.935045,77.651117,working,Koramangala
+12.926364,77.633175,working,Koramangala
+12.921639,77.646614,dim,Koramangala
+12.930479,77.62088,working,Koramangala
+12.91095,77.632507,working,Koramangala
+12.910534,77.629165,dim,Koramangala
+12.926536,77.603149,faulty,Koramangala
+12.933607,77.641135,dim,Koramangala
+12.919217,77.650939,dim,Koramangala
+12.916725,77.65208,faulty,Koramangala
+12.960329,77.626721,working,Koramangala
+12.939839,77.655786,working,Koramangala
+12.840804,77.661651,working,Electronic City
+12.840943,77.659585,faulty,Electronic City
+12.833802,77.635205,working,Electronic City
+12.861475,77.664724,working,Electronic City
+12.864411,77.672155,working,Electronic City
+12.853366,77.645504,working,Electronic City
+12.831088,77.641809,working,Electronic City
+12.852169,77.681089,dim,Electronic City
+12.863761,77.669685,dim,Electronic City
+12.869922,77.67492,working,Electronic City
+12.844222,77.630929,dim,Electronic City
+12.867884,77.658533,working,Electronic City
+12.84497,77.644133,working,Electronic City
+12.846553,77.67964,working,Electronic City
+12.831819,77.631404,working,Electronic City
+12.823835,77.647979,dim,Electronic City
+12.868664,77.639162,working,Electronic City
+12.864629,77.663988,faulty,Electronic City
+12.819051,77.632036,working,Electronic City
+12.856196,77.662826,dim,Electronic City
+12.844025,77.68289,faulty,Electronic City
+12.827723,77.687743,working,Electronic City
+12.845715,77.687858,dim,Electronic City
+12.851816,77.666238,working,Electronic City
+12.863887,77.644918,working,Electronic City
+12.837903,77.659642,working,Electronic City
+12.861152,77.652914,dim,Electronic City
+12.85103,77.690038,working,Electronic City
+12.852291,77.641223,faulty,Electronic City
+12.843535,77.646254,working,Electronic City
+12.823159,77.685086,faulty,Electronic City
+12.845642,77.686871,working,Electronic City
+12.821345,77.661139,working,Electronic City
+12.828318,77.656051,working,Electronic City
+12.921936,77.587838,working,JP Nagar
+12.936695,77.573049,dim,JP Nagar
+12.92476,77.59276,dim,JP Nagar
+12.918047,77.575075,faulty,JP Nagar
+12.911377,77.572314,faulty,JP Nagar
+12.934319,77.576236,dim,JP Nagar
+12.897779,77.588441,faulty,JP Nagar
+12.878506,77.58557,working,JP Nagar
+12.921372,77.559618,working,JP Nagar
+12.922791,77.60785,dim,JP Nagar
+12.907051,77.58797,working,JP Nagar
+12.887618,77.562593,working,JP Nagar
+12.919948,77.583932,faulty,JP Nagar
+12.896609,77.591972,faulty,JP Nagar
+12.881926,77.561437,faulty,JP Nagar
+12.933311,77.574144,working,JP Nagar
+12.894357,77.555787,faulty,JP Nagar
+12.880379,77.605629,working,JP Nagar
+12.884398,77.610765,working,JP Nagar
+12.9172,77.575314,working,JP Nagar
+12.881262,77.579435,working,JP Nagar
+12.897792,77.588552,dim,JP Nagar
+12.933975,77.613062,dim,JP Nagar
+12.928655,77.582667,working,JP Nagar
+12.892385,77.582349,working,JP Nagar
+12.914616,77.583439,working,JP Nagar
+12.90626,77.60957,working,JP Nagar
+12.898613,77.560867,faulty,JP Nagar
+12.896707,77.584603,working,JP Nagar
+12.880908,77.566064,working,Banashankari
+12.912597,77.547817,working,Banashankari
+12.895957,77.570987,working,Banashankari
+12.931023,77.568285,dim,Banashankari
+12.919543,77.532551,working,Banashankari
+12.902738,77.540192,faulty,Banashankari
+12.928989,77.576012,faulty,Banashankari
+12.899625,77.536993,working,Banashankari
+12.901416,77.523684,working,Banashankari
+12.937046,77.554466,faulty,Banashankari
+12.925583,77.559321,working,Banashankari
+12.896743,77.564911,working,Banashankari
+12.892587,77.56226,dim,Banashankari
+12.922401,77.538704,dim,Banashankari
+12.899848,77.569446,faulty,Banashankari
+12.931081,77.5695,dim,Banashankari
+12.919175,77.524083,working,Banashankari
+12.892619,77.552493,faulty,Banashankari
+12.934468,77.561754,working,Banashankari
+12.912712,77.553506,dim,Banashankari
+12.890221,77.534607,dim,Banashankari
+12.919744,77.520986,working,Banashankari
+12.927955,77.537501,faulty,Banashankari
+12.911391,77.517985,working,Banashankari
+12.881798,77.55939,working,Banashankari
+12.934603,77.543516,dim,Banashankari
+12.895548,77.523538,working,Banashankari
+12.882939,77.569076,working,Banashankari
+12.884513,77.537262,working,Banashankari
+12.903629,77.558905,dim,Banashankari
+12.885081,77.548145,dim,Banashankari
+12.93475,77.569658,working,Banashankari
+12.887665,77.576218,dim,Banashankari
+12.909814,77.522942,working,Banashankari
+12.905023,77.522908,working,Banashankari
+12.935225,77.57151,dim,Banashankari
+12.934803,77.557313,dim,Banashankari
